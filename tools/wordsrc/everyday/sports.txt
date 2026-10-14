@@ -1,0 +1,143 @@
+# Everyday Life — Sports (sports, athletic activities, equipment, terms)
+# Venues (Stadium, Golf course, Ice rink, Bowling alley, Gym) are in places.
+Basketball|5
+Football|5
+Soccer|5
+Baseball|5
+Tennis|5
+Golf|5
+Hockey|5
+Volleyball|5
+Softball|4
+Rugby|4
+Cricket|4
+Lacrosse|4
+Bowling|5
+Boxing|5
+Wrestling|5
+Karate|5
+Judo|4
+Fencing|4
+Archery|5
+Gymnastics|5
+Figure skating|5
+Ice skating|5
+Skiing|5
+Snowboarding|5
+Surfing|5
+Swimming|5
+Diving|4
+Water polo|4
+Rowing|4
+Kayaking|5
+Sailing|4
+Cycling|5
+Running|5
+Marathon|5
+Sprint|4
+Hurdles|4
+Pole vault|5
+High jump|5
+Long jump|4
+Javelin|4
+Shot put|4
+Triathlon|4
+Skateboarding|5
+Rock climbing|5
+Hiking|5
+Horse racing|5
+Ping pong|5
+Badminton|5
+Dodgeball|5
+Kickball|4
+Darts|5
+Billiards|4
+Weightlifting|5
+Yoga|5
+Pilates|4
+Jogging|5
+Tug of war|5
+Sumo wrestling|5
+Bobsled|4
+Car racing|4
+Olympics|5
+Super Bowl|5
+World Cup|5
+Touchdown|5
+Home run|5
+Slam dunk|5
+Hole in one|5
+Goal|4
+Penalty kick|4
+Free throw|5
+Three-pointer|4
+Strike|4
+Foul|4
+Overtime|5
+Halftime|5
+Referee whistle|2
+Hat trick|4
+Knockout|5
+Gold medal|5
+Trophy|5
+Championship|4
+Team captain|4
+Cheerleader|5
+Mascot|4
+Tennis racket|5
+Golf club|5
+Baseball bat|5
+Baseball glove|4
+Hockey stick|5
+Hockey puck|5
+Soccer ball|5
+Football helmet|4
+Shin guards|4
+Boxing gloves|5
+Skis|4
+Surfboard|5
+Snowboard|4
+Basketball hoop|5
+Shuttlecock|4
+Dumbbell|5
+Treadmill|5
+Jump rope|5
+Push-up|5
+Sit-up|5
+Jumping jacks|5
+Finish line|5
+Starting line|4
+Personal best|4
+Scoreboard|5
+Stopwatch|4
+Bench press|4
+Bullseye|4
+Cartwheel|5
+Handstand|4
+Backflip|5
+Pole dancing|1
+Quarterback|5
+Goalie|5
+Pitcher|4
+Catcher|3
+Water skiing|4
+# Cuts
+# cut: Referee whistle|2 (made-up compound)
+# cut: Pole dancing|1 (not family-friendly)
+# cut: Catcher|3 (ambiguous out of context)
+# cut: Mascot|4 (mascots are characters; avoid category overlap)
+# cut: Snowboard|4 (near-duplicate of Snowboarding)
+# cut: Skis|4 (near-duplicate of Skiing)
+# cut: Jogging|5 (near-duplicate of Running)
+# cut: Ice skating|5 (near-duplicate of Figure skating)
+# cut: Cheerleader|5 (occupation-like; also risk with jobs; kept here as sport role)
+# cut: Curling|3 (many would hesitate)
+# cut: Biathlon|2 (niche)
+# cut: Decathlon|3 (hesitation)
+# cut: Steeplechase|2 (niche)
+# cut: Luge|3 (hesitation)
+# cut: Squash|3 (ambiguous with vegetable)
+# cut: Polo|3 (niche)
+# cut: Jai alai|1 (obscure)
+# cut: Hacky sack|3 (dated)
+# cut: Strike|4 (ambiguous: bowling/baseball/labor)

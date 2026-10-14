@@ -1,0 +1,143 @@
+# Food & Drink / Drinks — everyday drinks, coffee & tea, sodas, juices, mild alcohol.
+Water|5
+Milk|5
+Coffee|5
+Tea|5
+Orange juice|5
+Apple juice|5
+Grape juice|4
+Cranberry juice|4
+Pineapple juice|4
+Tomato juice|4
+Prune juice|4
+Lemonade|5
+Hot chocolate|5
+Chocolate milk|5
+Soda|5
+Coca-Cola|5
+Pepsi|5
+Sprite|5
+Fanta|4
+Dr Pepper|5
+Mountain Dew|5
+Root beer|5
+Root beer float|4
+Cream soda|4
+Ginger ale|4
+Iced tea|5
+Sweet tea|4
+Green tea|5
+Chai tea|4
+Herbal tea|4
+Chamomile tea|4
+Earl Grey|4
+Bubble tea|4
+Matcha|4
+Milkshake|5
+Smoothie|5
+Protein shake|4
+Slushie|4
+Espresso|5
+Cappuccino|5
+Latte|5
+Mocha|4
+Frappuccino|4
+Iced coffee|5
+Cold brew|4
+Americano|4
+Macchiato|4
+Decaf|4
+Pumpkin spice latte|4
+Irish coffee|4
+Eggnog|4
+Apple cider|4
+Fruit punch|4
+Hawaiian Punch|4
+Kool-Aid|4
+Capri Sun|4
+Juice box|4
+Gatorade|5
+Red Bull|4
+Energy drink|5
+Sparkling water|4
+Seltzer|4
+Tonic water|4
+Coconut water|4
+Almond milk|4
+Soy milk|4
+Oat milk|4
+Kombucha|4
+Mocktail|4
+Beer|5
+Wine|5
+Champagne|5
+Prosecco|4
+Merlot|4
+Chardonnay|4
+Margarita|5
+Martini|5
+Mojito|4
+Piña colada|4
+Daiquiri|4
+Bloody Mary|4
+Sangria|4
+Mimosa|4
+Cocktail|5
+Whiskey|5
+Bourbon|4
+Scotch|4
+Vodka|5
+Tequila|5
+Rum|4
+Gin|4
+Brandy|4
+Sake|4
+Moonshine|4
+Guinness|4
+Budweiser|4
+# cut: Shirley Temple|4 (boundary risk: famous actress in Entertainment)
+# cut: Arnold Palmer|4 (boundary risk: famous golfer)
+# cut: Seven Up|3 (brand written with digit; rewrite unnatural)
+# cut: Pink lemonade|4 (near-duplicate of Lemonade)
+# cut: Sports drink|4 (near-duplicate of Gatorade)
+# cut: Club soda|3 (near-duplicate of Seltzer)
+# cut: Slurpee|4 (near-duplicate of Slushie)
+# cut: Diet Coke|4 (near-duplicate of Coca-Cola)
+# cut: Strawberry milk|3 (less instant)
+# cut: Yoo-hoo|3 (niche)
+# cut: Snapple|3 (regional)
+# cut: Cosmopolitan|3 (also a magazine; less instant)
+# cut: Long Island iced tea|3 (near-duplicate of Iced tea)
+# cut: Mai tai|3 (many would hesitate)
+# cut: Moscow mule|3 (many would hesitate)
+# cut: Hot toddy|3 (many would hesitate)
+# cut: Whiskey sour|3 (many would hesitate)
+# cut: Espresso martini|3 (trend)
+# cut: Horchata|3 (many would hesitate)
+# cut: Lassi|2 (niche)
+# cut: Yerba mate|2 (niche)
+# cut: Ginger beer|3 (near-duplicate of Ginger ale)
+# cut: Mulled wine|3 (regional)
+# cut: Rosé|3 (less instant)
+# cut: Pinot noir|3 (many would hesitate)
+# cut: Cabernet|3 (many would hesitate)
+# cut: Absinthe|3 (niche)
+# cut: Jägermeister|3 (niche)
+# cut: Baileys|3 (niche)
+# cut: Heineken|3 (less instant)
+# cut: Corona|3 (ambiguous)
+# cut: Lager|3 (less instant)
+# cut: Wine cooler|3 (dated)
+# cut: Spritzer|3 (many would hesitate)
+# cut: Vitamin water|3 (niche)
+# cut: Tang|3 (dated)
+# cut: Ovaltine|3 (dated)
+# cut: Nesquik|3 (less instant)
+# cut: Malted milk|3 (dated)
+# cut: Egg cream|2 (niche)
+# cut: Frappé|3 (near-duplicate of Frappuccino)
+# cut: Turkish coffee|3 (many would hesitate)
+# cut: Thai iced tea|3 (many would hesitate)
+# cut: Carrot juice|3 (less instant)
+# cut: Warm milk|3 (near-duplicate of Milk)
+# cut: Mineral water|3 (near-duplicate of Sparkling water)

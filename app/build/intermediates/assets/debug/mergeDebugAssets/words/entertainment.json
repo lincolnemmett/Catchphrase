@@ -1,0 +1,591 @@
+{
+"id":"entertainment",
+"name":"Entertainment",
+"subtopics":{
+"movies":"Movies",
+"tv_shows":"TV Shows",
+"actors":"Actors",
+"musicians":"Musicians & Bands",
+"characters":"Famous Characters",
+"video_games":"Video Games",
+"games":"Board & Card Games",
+"books":"Books"
+},
+"words":[
+{
+"text":"Titanic",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Star Wars",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Jurassic Park",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Lion King",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Frozen",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Toy Story",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Finding Nemo",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Home Alone",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Wizard of Oz",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Back to the Future",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Ghostbusters",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Shrek",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Godfather",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Forrest Gump",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Matrix",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Top Gun",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Rocky",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Grease",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Mary Poppins",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Sound of Music",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Beauty and the Beast",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Little Mermaid",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Aladdin",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Mulan",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Moana",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Bambi",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Dumbo",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Jungle Book",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Lilo and Stitch",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Monsters Inc",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Incredibles",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"WALL-E",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Up",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Inside Out",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Coco",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Encanto",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Zootopia",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Pocahontas",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Lady and the Tramp",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Fantasia",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Ice Age",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Kung Fu Panda",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Happy Feet",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Chicken Run",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Stuart Little",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Babe",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Mrs Doubtfire",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Jumanji",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Gremlins",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Goonies",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Hocus Pocus",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Men in Black",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Karate Kid",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Mission Impossible",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Fast and Furious",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Indiana Jones",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Pirates of the Caribbean",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Terminator",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Die Hard",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Rambo",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Lethal Weapon",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Gladiator",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Braveheart",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Avatar",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Inception",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Interstellar",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Oppenheimer",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Avengers",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Planet of the Apes",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"King Kong",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Psycho",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Shining",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Edward Scissorhands",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Beetlejuice",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Nightmare Before Christmas",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Ghostbusters II",
+"subtopic":"movies",
+"rating":1
+},
+{
+"text":"Dirty Dancing",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Footloose",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Saturday Night Fever",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Greatest Showman",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"La La Land",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"West Side Story",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Annie",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Wicked",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Gone with the Wind",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Casablanca",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"It's a Wonderful Life",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Elf",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"The Polar Express",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Love Actually",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Rain Man",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Jerry Maguire",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Sleepless in Seattle",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"When Harry Met Sally",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Notebook",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Pretty in Pink",
+"subtopic":"movies",
+"rating":1
+},
+{
+"text":"Mean Girls",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Legally Blonde",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Freaky Friday",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Parent Trap",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Princess Diaries",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"High School Musical",
+"subtopic":"movies",
+"rating":5
+},
+{
+"text":"Space Jam",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Mask",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Ace Ventura",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Dumb and Dumber",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Truman Show",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Night at the Museum",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Ocean's Eleven",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Rush Hour",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Catch Me If You Can",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Cast Away",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Sister Act",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"The Sixth Sense",
+"subtopic":"movies",
+"rating":4
+},
+{
+"text":"Jaws",
+"subtopic":"movies",
+"rating":5
+}
+]
+}

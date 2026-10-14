@@ -1,0 +1,193 @@
+# Food & Drink / Ingredients — fruits, vegetables, herbs, spices, cheeses, pantry staples, condiments, meats (food forms).
+Apple|5
+Banana|5
+Orange|5
+Strawberry|5
+Grape|5
+Watermelon|5
+Pineapple|5
+Mango|5
+Peach|5
+Pear|5
+Cherry|5
+Lemon|5
+Lime|5
+Blueberry|5
+Raspberry|5
+Blackberry|4
+Cranberry|4
+Coconut|5
+Avocado|5
+Plum|4
+Apricot|4
+Cantaloupe|4
+Honeydew|4
+Grapefruit|5
+Pomegranate|4
+Papaya|4
+Fig|4
+Raisin|5
+Prune|4
+Tangerine|4
+Dragon fruit|4
+Tomato|5
+Carrot|5
+Potato|5
+Sweet potato|5
+Onion|5
+Garlic|5
+Broccoli|5
+Cauliflower|5
+Spinach|5
+Lettuce|5
+Cabbage|5
+Celery|5
+Cucumber|5
+Corn|5
+Peas|5
+Green beans|5
+Bell pepper|4
+Jalapeño|5
+Mushroom|5
+Zucchini|4
+Eggplant|5
+Asparagus|4
+Brussels sprouts|5
+Pumpkin|5
+Radish|4
+Beet|4
+Kale|4
+Artichoke|4
+Butternut squash|4
+Okra|4
+Pickle|5
+Olive|5
+Chickpeas|4
+Black beans|4
+Lentils|4
+Tofu|4
+Ginger|4
+Basil|4
+Parsley|4
+Cilantro|4
+Mint|4
+Oregano|4
+Rosemary|4
+Cinnamon|5
+Nutmeg|4
+Paprika|4
+Turmeric|4
+Saffron|4
+Black pepper|5
+Salt|5
+Sugar|5
+Honey|5
+Vanilla|5
+Wasabi|4
+Horseradish|4
+Cheddar|5
+Mozzarella|5
+Parmesan|5
+Swiss cheese|5
+Brie|4
+Feta|4
+Gouda|4
+Blue cheese|4
+Cream cheese|5
+Cottage cheese|4
+Goat cheese|4
+Butter|5
+Yogurt|5
+Whipped cream|5
+Sour cream|5
+Egg|5
+Flour|5
+Bread|5
+Rice|5
+Pasta|5
+Noodles|5
+Tortilla|5
+Peanut butter|5
+Jam|5
+Maple syrup|5
+Ketchup|5
+Mustard|5
+Mayonnaise|5
+Ranch dressing|4
+Barbecue sauce|5
+Hot sauce|5
+Soy sauce|5
+Sriracha|4
+Olive oil|5
+Vinegar|4
+Gravy|5
+Pesto|4
+Nutella|4
+Chocolate|5
+Sprinkles|5
+Frosting|4
+Marshmallow|5
+Caramel|5
+Baking soda|4
+Bacon|5
+Ham|5
+Sausage|5
+Pepperoni|5
+Salami|4
+Bologna|4
+Peanut|5
+Almond|5
+Cashew|4
+Walnut|4
+Pistachio|4
+Macadamia nut|4
+Baguette|4
+Sourdough|4
+Cornbread|4
+Kimchi|4
+# cut: Kiwi|5 (boundary: also a bird in Animals)
+# cut: Date|3 (ambiguous)
+# cut: Nectarine|3 (many would hesitate)
+# cut: Clementine|3 (near-duplicate of Tangerine)
+# cut: Passion fruit|3 (many would hesitate)
+# cut: Lychee|3 (many would hesitate)
+# cut: Starfruit|3 (many would hesitate)
+# cut: Guava|3 (many would hesitate)
+# cut: Turnip|3 (less instant)
+# cut: Leek|3 (many would hesitate)
+# cut: Yam|3 (near-duplicate of Sweet potato)
+# cut: Arugula|3 (many would hesitate)
+# cut: Kidney beans|3 (near-duplicate of Black beans)
+# cut: Thyme|3 (hard to clue; homophone)
+# cut: Dill|3 (less instant)
+# cut: Cumin|3 (many would hesitate)
+# cut: Chili powder|3 (near-duplicate of Chili)
+# cut: Curry powder|3 (near-duplicate of Curry)
+# cut: Cloves|3 (many would hesitate)
+# cut: Bay leaf|3 (many would hesitate)
+# cut: Sage|3 (ambiguous)
+# cut: Provolone|3 (many would hesitate)
+# cut: Pepper jack|3 (many would hesitate)
+# cut: Ricotta|3 (many would hesitate)
+# cut: Camembert|3 (many would hesitate)
+# cut: American cheese|3 (less instant)
+# cut: Tabasco|3 (near-duplicate of Hot sauce)
+# cut: Marinara sauce|3 (many would hesitate)
+# cut: Yeast|3 (hard to clue)
+# cut: Croutons|3 (less instant)
+# cut: Breadcrumbs|3 (less instant)
+# cut: Oats|3 (near-duplicate of Oatmeal)
+# cut: Chocolate chips|4 (near-duplicate of Chocolate)
+# cut: Beef|4 (cow meat; kept food forms like Roast beef instead)
+# cut: Pork|4 (kept food forms like Pork chops instead)
+# cut: Prosciutto|3 (many would hesitate)
+# cut: Hazelnut|3 (less instant)
+# cut: Chestnut|3 (less instant)
+# cut: Pecan|4 (near-duplicate of Pecan pie)
+# cut: Sesame seeds|3 (less instant)
+# cut: Pita bread|3 (less instant)
+# cut: Naan|3 (many would hesitate)
+# cut: Biscuit|3 (ambiguous US/UK)
+# cut: Sauerkraut|3 (many would hesitate)
+# cut: Nori|2 (niche)
+# cut: Cranberry sauce|4 (holiday boundary risk; near Cranberry)

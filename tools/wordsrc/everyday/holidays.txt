@@ -1,0 +1,152 @@
+# Everyday Life — Holidays (holidays, celebrations, life events)
+Christmas|5
+Birthday party|5
+Wedding|5
+Graduation|5
+Halloween|5
+Thanksgiving|5
+Easter|5
+New Year's Eve|5
+New Year's Day|4
+Valentine's Day|5
+Fourth of July|5
+Independence Day|4
+St Patrick's Day|5
+Mother's Day|5
+Father's Day|5
+Hanukkah|5
+Kwanzaa|4
+Diwali|4
+Ramadan|4
+Chinese New Year|5
+Lunar New Year|4
+Passover|4
+Mardi Gras|5
+Cinco de Mayo|5
+April Fools' Day|5
+Earth Day|5
+Labor Day|5
+Memorial Day|5
+Groundhog Day|5
+Christmas Eve|5
+Christmas tree|5
+Santa Claus|5
+Stocking|4
+Mistletoe|5
+Candy cane|5
+Gingerbread house|5
+Advent calendar|4
+Ugly sweater|5
+Secret Santa|5
+Christmas carol|4
+Trick-or-treating|5
+Jack-o'-lantern|5
+Costume party|5
+Haunted hayride|3
+Easter egg hunt|5
+Easter Bunny|5
+Fireworks|5
+Parade|5
+Countdown|4
+Party hat|5
+Birthday cake|5
+Birthday candles|4
+Piñata|5
+Surprise party|5
+Baby shower|5
+Bridal shower|5
+Bachelor party|5
+Engagement|5
+Proposal|4
+Engagement ring|5
+Wedding cake|5
+Wedding dress|4
+Bride|5
+Groom|5
+Best man|5
+Maid of honor|5
+Flower girl|5
+Honeymoon|4
+Anniversary|5
+Retirement party|5
+Housewarming party|5
+Family reunion|5
+Funeral|4
+Baby's first birthday|3
+Sweet sixteen|4
+Quinceañera|4
+Bar mitzvah|4
+Prom|4
+Sleepover|5
+Slumber party|4
+Pool party|5
+Tea party|4
+Dinner party|5
+Block party|4
+Potluck|5
+Barbecue party|3
+Office party|4
+Holiday card|4
+Gift wrap|5
+Present|5
+Wrapping paper|4
+Gift card|4
+Thank-you card|4
+Confetti|5
+Balloons|5
+Streamers|4
+Party favors|4
+Champagne toast|4
+Toast|4
+Cake cutting|3
+Bouquet toss|4
+Wedding ring|4
+Wedding vows|5
+Reception|4
+Dance floor|4
+Fourth of July parade|3
+Black Friday|5
+Cyber Monday|4
+Boxing Day|4
+Leap year|4
+Day off|4
+Long weekend|4
+Bonfire Night|2
+Oktoberfest|5
+Carnival|5
+Festival|4
+Talent show|4
+Opening ceremony|4
+Gender reveal|4
+Retirement|4
+First day of school|4
+Tooth fairy|4
+Lost tooth|3
+# Cuts
+# cut: New Year's Day|4 (near-duplicate of New Year's Eve)
+# cut: Independence Day|4 (near-duplicate of Fourth of July; also a movie)
+# cut: Lunar New Year|4 (near-duplicate of Chinese New Year)
+# cut: Haunted hayride|3 (regional)
+# cut: Honeymoon|4 (in travel)
+# cut: Prom|4 (in school)
+# cut: Baby's first birthday|3 (generic compound)
+# cut: Slumber party|4 (near-duplicate of Sleepover)
+# cut: Barbecue party|3 (Barbecue is Food & Drink)
+# cut: Wrapping paper|4 (near-duplicate of Gift wrap)
+# cut: Toast|4 (ambiguous with food)
+# cut: Cake cutting|3 (made-up compound)
+# cut: Wedding ring|4 (near-duplicate of Engagement ring)
+# cut: Fourth of July parade|3 (near-duplicate)
+# cut: Bonfire Night|2 (regional UK)
+# cut: Retirement|4 (near-duplicate of Retirement party)
+# cut: Tooth fairy|4 (fictional character; belongs in characters)
+# cut: Lost tooth|3 (weak)
+# cut: Santa Claus|5 (character; belongs in Entertainment/characters)
+# cut: Easter Bunny|5 (character; belongs in Entertainment/characters)
+# cut: Groundhog Day|5 (also a famous movie; overlap risk)
+# cut: Day off|4 (generic)
+# cut: Gift card|4 (not specific to celebrations)
+# cut: Present|5 (ambiguous; Gift wrap kept)
+# cut: Shavuot|2 (niche)
+# cut: Epiphany|3 (hesitation)
+# cut: Juneteenth|3 (many would hesitate)

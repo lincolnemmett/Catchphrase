@@ -1,0 +1,118 @@
+# Nature & Science / plants — non-food plants, flowers, trees, plant parts
+# Flowers
+Flower|5
+Sunflower|5
+Rose|5
+Tulip|5
+Daisy|5
+Lily|4
+Daffodil|4
+Orchid|4
+Lavender|4
+Dandelion|5
+Poppy|4
+Carnation|4
+Marigold|4
+Lotus|4
+Violet|4
+Lilac|4
+Hibiscus|4
+Magnolia|4
+Cherry blossom|5
+Buttercup|4
+Forget-me-not|4
+Wildflower|4
+Bouquet|4
+Lily pad|4
+# cut: Water lily|4 (near-duplicate of Lily pad / Lily)
+# cut: Iris|4 (clashes with the eye part; ambiguous)
+# cut: Jasmine|4 (clashes with the Aladdin character)
+# cut: Petunia|3 (many would hesitate)
+# cut: Begonia|2 (niche)
+# cut: Chrysanthemum|3 (many would hesitate)
+# cut: Geranium|3 (many would hesitate)
+# cut: Snapdragon|2 (niche)
+# cut: Bluebell|3 (many would hesitate)
+# cut: Pansy|3 (hesitation; also used as a slur)
+# cut: Peony|3 (many would hesitate)
+# cut: Hydrangea|3 (many would hesitate)
+# cut: Morning glory|3 (many would hesitate)
+# cut: Rosebush|4 (near-duplicate of Rose)
+# Trees
+Tree|5
+Oak tree|5
+Pine tree|5
+Palm tree|5
+Maple tree|5
+Weeping willow|4
+Redwood|4
+Birch|4
+Cedar|4
+Bonsai tree|4
+Evergreen|4
+Eucalyptus|4
+Acorn|5
+Pine cone|5
+Pine needle|4
+Tree trunk|4
+# cut: Christmas tree|5 (belongs with Holidays in Everyday Life)
+# cut: Willow tree|4 (near-duplicate of Weeping willow)
+# cut: Sequoia|3 (many would hesitate)
+# cut: Baobab|2 (niche)
+# cut: Apple tree|4 (fruit overlap with Food)
+# cut: Coconut tree|4 (near-duplicate of Palm tree; fruit overlap)
+# cut: Cherry tree|4 (near-duplicate of Cherry blossom)
+# cut: Aspen|3 (many would hesitate)
+# cut: Elm|3 (many would hesitate)
+# Plant parts
+Leaf|5
+Seed|5
+Root|5
+Stem|4
+Petal|5
+Thorn|5
+Bark|4
+Branch|5
+Twig|4
+Pollen|5
+Sap|4
+Sprout|4
+# cut: Seedling|3 (many would hesitate)
+# cut: Bulb|3 (ambiguous with light bulb)
+# Other plants
+Cactus|5
+Venus flytrap|5
+Aloe vera|5
+Bamboo|5
+Fern|4
+Moss|4
+Ivy|4
+Poison ivy|5
+Clover|5
+Grass|5
+Weed|5
+Bush|5
+Hedge|4
+Vine|4
+Seaweed|5
+Algae|4
+Tumbleweed|5
+Houseplant|4
+Hay|4
+Lawn|4
+Photosynthesis|4
+# cut: Four-leaf clover|5 (near-duplicate of Clover)
+# cut: Shamrock|4 (near-duplicate of Clover)
+# cut: Mushroom|5 (ingredient; belongs to Food)
+# cut: Mistletoe|4 (Christmas decoration overlap with Holidays)
+# cut: Holly|3 (ambiguous; holiday overlap)
+# cut: Wheat|4 (ingredient overlap with Food)
+# cut: Beanstalk|4 (Jack and the Beanstalk overlap with Books)
+# cut: Thistle|3 (many would hesitate)
+# cut: Stinging nettle|3 (many would hesitate)
+# cut: Lichen|2 (niche)
+# cut: Fungus|3 (vague)
+# cut: Cattail|3 (many would hesitate)
+# cut: Reed|3 (many would hesitate)
+# cut: Spider plant|3 (many would hesitate)
+# cut: Flower pot|5 (household item; belongs to Things)

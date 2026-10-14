@@ -1,0 +1,124 @@
+# Everyday Life — Weather & seasons
+# Natural disasters like Earthquake/Volcano belong to Nature & Science/geography.
+Rainbow|5
+Hurricane|5
+Snowflake|5
+Summer|5
+Winter|5
+Spring|5
+Autumn|5
+Fall|4
+Thunderstorm|5
+Lightning|5
+Thunder|5
+Tornado|5
+Blizzard|5
+Snowstorm|5
+Rain|5
+Snow|5
+Hail|5
+Sleet|4
+Fog|5
+Mist|4
+Drizzle|5
+Downpour|4
+Rain shower|4
+Sunshine|5
+Heat wave|5
+Cold front|4
+Humidity|4
+Wind|5
+Breeze|5
+Gust of wind|4
+Cloud|5
+Storm cloud|4
+Overcast|4
+Sunny day|4
+Rainy day|5
+Snow day|5
+Puddle|5
+Icicle|5
+Frost|5
+Ice storm|4
+Black ice|4
+Avalanche|4
+Flood|4
+Drought|4
+Monsoon|4
+Dust storm|4
+Sandstorm|4
+Weather forecast|5
+Weather report|4
+Temperature|5
+Thermometer|5
+Degrees|3
+Celsius|4
+Fahrenheit|4
+Umbrella|5
+Raincoat|4
+Rain boots|4
+Snowman|5
+Snowball|5
+Snowplow|4
+Snow angel|5
+Wind chill|4
+Frostbite|4
+Sunrise|5
+Sunset|5
+Heatstroke|4
+Freezing|4
+Muggy|4
+Chilly|4
+Windy|4
+Foggy|4
+Indian summer|2
+April showers|4
+Weathervane|3
+Barometer|2
+Raindrop|5
+Dew|4
+Hailstorm|4
+Tropical storm|4
+Eye of the storm|4
+Global warming|4
+Climate change|4
+Smog|4
+Hot weather|3
+Cloudy|4
+Snowfall|4
+Snowdrift|3
+# Cuts
+# cut: Fall|4 (near-duplicate of Autumn)
+# cut: Hailstorm|4 (near-duplicate of Hail)
+# cut: Weather report|4 (near-duplicate of Weather forecast)
+# cut: Snowstorm|5 (near-duplicate of Blizzard)
+# cut: Rain shower|4 (near-duplicate of Rain)
+# cut: Degrees|3 (vague)
+# cut: Indian summer|2 (dated, potentially insensitive)
+# cut: Weathervane|3 (hesitation)
+# cut: Barometer|2 (technical)
+# cut: Hot weather|3 (generic compound)
+# cut: Snowdrift|3 (hesitation)
+# cut: Raincoat|4 (clothing; belongs in Things)
+# cut: Rain boots|4 (clothing; belongs in Things)
+# cut: Umbrella|5 (everyday object; belongs in Things/household or clothing)
+# cut: Avalanche|4 (natural disaster; belongs in geography)
+# cut: Flood|4 (natural disaster; belongs in geography)
+# cut: Drought|4 (natural disaster; belongs in geography)
+# cut: Sunrise|5 (sky phenomenon; overlap risk with space/geography)
+# cut: Sunset|5 (sky phenomenon; overlap risk with space/geography)
+# cut: Snowman|5 (could be in characters? kept as weather activity) 
+# cut: Global warming|4 (politically charged)
+# cut: Climate change|4 (politically charged)
+# cut: Muggy|4 (adjective; hard to clue)
+# cut: Chilly|4 (adjective; also food)
+# cut: Windy|4 (adjective; near-duplicate of Wind)
+# cut: Foggy|4 (adjective; near-duplicate of Fog)
+# cut: Cloudy|4 (adjective; near-duplicate of Cloud)
+# cut: Thermometer|5 (object; risk with household/technology)
+# cut: Heatstroke|4 (medical)
+# cut: Eye of the storm|4 (idiom; belongs in Phrases)
+# cut: Gust of wind|4 (near-duplicate of Wind)
+# cut: Storm cloud|4 (near-duplicate of Cloud)
+# cut: Overcast|4 (hesitation)
+# cut: Sunny day|4 (generic compound)

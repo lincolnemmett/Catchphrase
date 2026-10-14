@@ -1,0 +1,3299 @@
+{
+"id":"food",
+"name":"Food & Drink",
+"subtopics":{
+"dishes":"Dishes",
+"snacks":"Snacks",
+"desserts":"Desserts",
+"ingredients":"Ingredients",
+"drinks":"Drinks",
+"cuisines":"Cuisines"
+},
+"words":[
+{
+"text":"Pizza",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Hamburger",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Cheeseburger",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Hot dog",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Spaghetti",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Lasagna",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Macaroni and cheese",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Fried chicken",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Chicken nuggets",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Chicken wings",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Taco",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Burrito",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Quesadilla",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Enchilada",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Fajitas",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Tamale",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chimichanga",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Sushi",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Sashimi",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"California roll",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Ramen",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Pad thai",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Fried rice",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Chow mein",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Lo mein",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Orange chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"General Tso's chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Sweet and sour chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Kung pao chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Beef and broccoli",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Egg roll",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Spring roll",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Dumplings",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Wonton soup",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Hot and sour soup",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Egg drop soup",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Peking duck",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Hot pot",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Curry",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Chicken tikka masala",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Butter chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Teriyaki chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Tempura",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Miso soup",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Pho",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Steak",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Filet mignon",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Prime rib",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Surf and turf",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Meatloaf",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Meatballs",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Pot roast",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Roast beef",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Roast chicken",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Pork chops",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Lamb chops",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Baby back ribs",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Pulled pork",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Brisket",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Corned beef",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Salisbury steak",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chicken fried steak",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Beef Wellington",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Shepherd's pie",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chicken pot pie",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Fish and chips",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Fish sticks",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Lobster roll",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Crab cakes",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Shrimp cocktail",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Shrimp scampi",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Clam chowder",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Lobster bisque",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chili",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Beef stew",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chicken noodle soup",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Tomato soup",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"French onion soup",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Split pea soup",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Minestrone",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Grilled cheese",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"BLT",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Club sandwich",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Peanut butter and jelly",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Sloppy joe",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Philly cheesesteak",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Meatball sub",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Tuna melt",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Egg salad",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chicken salad",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Caesar salad",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Greek salad",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Cobb salad",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Fruit salad",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Potato salad",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Pasta salad",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Coleslaw",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Mashed potatoes",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Baked potato",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"French fries",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Hash browns",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Corn on the cob",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Baked beans",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Stuffing",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Pancakes",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Waffles",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"French toast",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Omelet",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Scrambled eggs",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Eggs Benedict",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Bacon and eggs",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Avocado toast",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Oatmeal",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Cereal",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Toast",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Grits",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Biscuits and gravy",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chicken and waffles",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Quiche",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Fettuccine Alfredo",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Ravioli",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Tortellini",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Spaghetti and meatballs",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Calzone",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Garlic bread",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Bruschetta",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Chicken parmesan",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Eggplant parmesan",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Paella",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Risotto",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Goulash",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Schnitzel",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Bratwurst",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Bangers and mash",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Falafel",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Gyro",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Kebab",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Shawarma",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Fondue",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Poutine",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Jambalaya",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Gumbo",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Casserole",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Stir-fry",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Stuffed peppers",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Veggie burger",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Sliders",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Escargot",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Frog legs",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Haggis",
+"subtopic":"dishes",
+"rating":4
+},
+{
+"text":"Corn dog",
+"subtopic":"dishes",
+"rating":5
+},
+{
+"text":"Popcorn",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Potato chips",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Pretzel",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Nachos",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Tortilla chips",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Chips and salsa",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Guacamole",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Hummus",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Crackers",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Goldfish crackers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Animal crackers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Graham crackers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Saltine crackers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Ritz crackers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Cheez-It",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Trail mix",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Granola bar",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Protein bar",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Beef jerky",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Slim Jim",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"String cheese",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Mixed nuts",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Sunflower seeds",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Cheese puffs",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Cheetos",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Doritos",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Pringles",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Fritos",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Lay's",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Chex Mix",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Cracker Jack",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Rice cakes",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Pork rinds",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Kettle corn",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Onion rings",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Mozzarella sticks",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Pigs in a blanket",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Samosa",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Deviled eggs",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Jalapeño poppers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Potato skins",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Tater tots",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Curly fries",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Cheese fries",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Queso",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Spinach dip",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Edamame",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Ants on a log",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Fruit snacks",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Fruit roll-up",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Applesauce",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Dried fruit",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Lunchables",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Hot Pockets",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Pizza rolls",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Pop-Tarts",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Twinkie",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Oreo",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Bagel",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Croissant",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Candy bar",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Chocolate bar",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Gummy bears",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Gummy worms",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Jelly beans",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Lollipop",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Cotton candy",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Candy cane",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Candy corn",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Rock candy",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Licorice",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Saltwater taffy",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Jawbreaker",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Gumdrop",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Chewing gum",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Bubble gum",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Breath mints",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Tic Tac",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Pez",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Pop Rocks",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Peeps",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Caramel apple",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Skittles",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Snickers",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Kit Kat",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Reese's",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Twix",
+"subtopic":"snacks",
+"rating":5
+},
+{
+"text":"Hershey's Kisses",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Starburst",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Twizzlers",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Tootsie Roll",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Butterfinger",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Swedish Fish",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Sour Patch Kids",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Jolly Rancher",
+"subtopic":"snacks",
+"rating":4
+},
+{
+"text":"Cake",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Chocolate cake",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Cheesecake",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Cupcake",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Carrot cake",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Red velvet cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Pound cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Angel food cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Coffee cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Ice cream cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Pineapple upside-down cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Black Forest cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Lava cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Fruitcake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Bundt cake",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Cake pop",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Tiramisu",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Apple pie",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Pumpkin pie",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Cherry pie",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Pecan pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Key lime pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Banana cream pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Lemon meringue pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Sweet potato pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Boston cream pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Mud pie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Peach cobbler",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Apple crumble",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Apple strudel",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Apple fritter",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Fruit tart",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Ice cream",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Sundae",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Banana split",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Gelato",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Sherbet",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Sorbet",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Frozen yogurt",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Soft serve",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Ice cream sandwich",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Ice cream cone",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Popsicle",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Snow cone",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Italian ice",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Neapolitan ice cream",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Rocky road",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Cookies and cream",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Mint chocolate chip",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Cookie dough",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Brownie",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Chocolate chip cookie",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Oatmeal raisin cookie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Sugar cookie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Peanut butter cookie",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Snickerdoodle",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Fortune cookie",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Gingerbread",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Gingerbread house",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Shortbread",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Macaron",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Biscotti",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Cannoli",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Éclair",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Cream puff",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Crème brûlée",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Flan",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Custard",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Pudding",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Rice pudding",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Bread pudding",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Chocolate mousse",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Parfait",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Jell-O",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Baklava",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Churro",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Funnel cake",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Donut",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Cinnamon roll",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Danish pastry",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Muffin",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Scone",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Crepe",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Beignet",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Soufflé",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Meringue",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Fudge",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Toffee",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Peanut brittle",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Chocolate truffle",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Chocolate-covered strawberries",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"S'mores",
+"subtopic":"desserts",
+"rating":5
+},
+{
+"text":"Rice Krispies Treats",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Lemon bars",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Banana bread",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Mochi",
+"subtopic":"desserts",
+"rating":4
+},
+{
+"text":"Apple",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Banana",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Orange",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Strawberry",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Grape",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Watermelon",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pineapple",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Mango",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Peach",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pear",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Cherry",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Lemon",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Lime",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Blueberry",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Raspberry",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Blackberry",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cranberry",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Coconut",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Avocado",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Plum",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Apricot",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cantaloupe",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Honeydew",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Grapefruit",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pomegranate",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Papaya",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Fig",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Raisin",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Prune",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Tangerine",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Dragon fruit",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Tomato",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Carrot",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Potato",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Sweet potato",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Onion",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Garlic",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Broccoli",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Cauliflower",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Spinach",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Lettuce",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Cabbage",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Celery",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Cucumber",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Corn",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Peas",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Green beans",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Bell pepper",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Jalapeño",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Mushroom",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Zucchini",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Eggplant",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Asparagus",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Brussels sprouts",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pumpkin",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Radish",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Beet",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Kale",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Artichoke",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Butternut squash",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Okra",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Pickle",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Olive",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Chickpeas",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Black beans",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Lentils",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Tofu",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Ginger",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Basil",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Parsley",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cilantro",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Mint",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Oregano",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Rosemary",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cinnamon",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Nutmeg",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Paprika",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Turmeric",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Saffron",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Black pepper",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Salt",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Sugar",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Honey",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Vanilla",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Wasabi",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Horseradish",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cheddar",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Mozzarella",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Parmesan",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Swiss cheese",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Brie",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Feta",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Gouda",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Blue cheese",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cream cheese",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Cottage cheese",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Goat cheese",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Butter",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Yogurt",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Whipped cream",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Sour cream",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Egg",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Flour",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Bread",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Rice",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pasta",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Noodles",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Tortilla",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Peanut butter",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Jam",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Maple syrup",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Ketchup",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Mustard",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Mayonnaise",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Ranch dressing",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Barbecue sauce",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Hot sauce",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Soy sauce",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Sriracha",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Olive oil",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Vinegar",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Gravy",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pesto",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Nutella",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Chocolate",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Sprinkles",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Frosting",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Marshmallow",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Caramel",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Baking soda",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Bacon",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Ham",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Sausage",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Pepperoni",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Salami",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Bologna",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Peanut",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Almond",
+"subtopic":"ingredients",
+"rating":5
+},
+{
+"text":"Cashew",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Walnut",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Pistachio",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Macadamia nut",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Baguette",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Sourdough",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Cornbread",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Kimchi",
+"subtopic":"ingredients",
+"rating":4
+},
+{
+"text":"Water",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Milk",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Coffee",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Tea",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Orange juice",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Apple juice",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Grape juice",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Cranberry juice",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Pineapple juice",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Tomato juice",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Prune juice",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Lemonade",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Hot chocolate",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Chocolate milk",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Soda",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Coca-Cola",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Pepsi",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Sprite",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Fanta",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Dr Pepper",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Mountain Dew",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Root beer",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Root beer float",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Cream soda",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Ginger ale",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Iced tea",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Sweet tea",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Green tea",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Chai tea",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Herbal tea",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Chamomile tea",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Earl Grey",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Bubble tea",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Matcha",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Milkshake",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Smoothie",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Protein shake",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Slushie",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Espresso",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Cappuccino",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Latte",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Mocha",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Frappuccino",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Iced coffee",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Cold brew",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Americano",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Macchiato",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Decaf",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Pumpkin spice latte",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Irish coffee",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Eggnog",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Apple cider",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Fruit punch",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Hawaiian Punch",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Kool-Aid",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Capri Sun",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Juice box",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Gatorade",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Red Bull",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Energy drink",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Sparkling water",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Seltzer",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Tonic water",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Coconut water",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Almond milk",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Soy milk",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Oat milk",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Kombucha",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Mocktail",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Beer",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Wine",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Champagne",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Prosecco",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Merlot",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Chardonnay",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Margarita",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Martini",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Mojito",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Piña colada",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Daiquiri",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Bloody Mary",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Sangria",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Mimosa",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Cocktail",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Whiskey",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Bourbon",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Scotch",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Vodka",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Tequila",
+"subtopic":"drinks",
+"rating":5
+},
+{
+"text":"Rum",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Gin",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Brandy",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Sake",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Moonshine",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Guinness",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Budweiser",
+"subtopic":"drinks",
+"rating":4
+},
+{
+"text":"Italian food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Mexican food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Chinese food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Japanese food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Indian food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Thai food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"French food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Greek food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Spanish food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Korean food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Vietnamese food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Mediterranean food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Middle Eastern food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Caribbean food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Cajun food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Soul food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Southern food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Tex-Mex",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"German food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"British food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Irish food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"American food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Brazilian food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Jamaican food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Hawaiian food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Cuban food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Turkish food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Lebanese food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Moroccan food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Russian food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Filipino food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Korean barbecue",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Fast food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Junk food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Street food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Comfort food",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Health food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Finger food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Seafood",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Frozen food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Barbecue",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Buffet",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"All-you-can-eat",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Brunch",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Breakfast",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Lunch",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Dinner",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Midnight snack",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Takeout",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Potluck",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Cookout",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Home cooking",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Fine dining",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Leftovers",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"TV dinner",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Vegetarian",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Vegan",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Gluten-free",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Organic food",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Keto diet",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Dim sum",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Tapas",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Hibachi",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Happy hour",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Afternoon tea",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Sunday roast",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Appetizer",
+"subtopic":"cuisines",
+"rating":5
+},
+{
+"text":"Main course",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Side dish",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Kids' menu",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Meal prep",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Farm to table",
+"subtopic":"cuisines",
+"rating":4
+},
+{
+"text":"Breakfast in bed",
+"subtopic":"cuisines",
+"rating":4
+}
+]
+}

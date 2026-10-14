@@ -1,0 +1,124 @@
+# Food & Drink / Snacks — savory snacks, appetizers, candy, packaged snack brands.
+Popcorn|5
+Potato chips|5
+Pretzel|5
+Nachos|5
+Tortilla chips|4
+Chips and salsa|5
+Guacamole|5
+Hummus|4
+Crackers|5
+Goldfish crackers|4
+Animal crackers|4
+Graham crackers|4
+Saltine crackers|4
+Ritz crackers|4
+Cheez-It|4
+Trail mix|5
+Granola bar|5
+Protein bar|4
+Beef jerky|5
+Slim Jim|4
+String cheese|4
+Mixed nuts|4
+Sunflower seeds|4
+Cheese puffs|4
+Cheetos|5
+Doritos|5
+Pringles|5
+Fritos|4
+Lay's|4
+Chex Mix|4
+Cracker Jack|4
+Rice cakes|4
+Pork rinds|4
+Kettle corn|4
+Onion rings|5
+Mozzarella sticks|5
+Pigs in a blanket|4
+Samosa|4
+Deviled eggs|4
+Jalapeño poppers|4
+Potato skins|4
+Tater tots|5
+Curly fries|4
+Cheese fries|4
+Queso|4
+Spinach dip|4
+Edamame|4
+Ants on a log|4
+Fruit snacks|4
+Fruit roll-up|4
+Applesauce|4
+Dried fruit|4
+Lunchables|4
+Hot Pockets|4
+Pizza rolls|4
+Pop-Tarts|5
+Twinkie|5
+Oreo|5
+Bagel|5
+Croissant|5
+Candy bar|5
+Chocolate bar|5
+Gummy bears|5
+Gummy worms|5
+Jelly beans|5
+Lollipop|5
+Cotton candy|5
+Candy cane|5
+Candy corn|4
+Rock candy|4
+Licorice|5
+Saltwater taffy|4
+Jawbreaker|4
+Gumdrop|4
+Chewing gum|5
+Bubble gum|5
+Breath mints|4
+Tic Tac|4
+Pez|4
+Pop Rocks|4
+Peeps|4
+Caramel apple|4
+Skittles|5
+Snickers|5
+Kit Kat|5
+Reese's|5
+Twix|5
+Hershey's Kisses|4
+Starburst|4
+Twizzlers|4
+Tootsie Roll|4
+Butterfinger|4
+Swedish Fish|4
+Sour Patch Kids|4
+Jolly Rancher|4
+# cut: M&M's|5 (ampersand not allowed; no natural rewrite)
+# cut: Milky Way|4 (boundary: galaxy belongs to Space)
+# cut: Mars bar|3 (also collides with planet; less instant)
+# cut: Baby Ruth|3 (less instant; person name)
+# cut: Nerds|3 (ambiguous)
+# cut: Smarties|3 (regional meaning differs)
+# cut: Laffy Taffy|3 (many would hesitate)
+# cut: Ding Dongs|3 (many would hesitate)
+# cut: Ho Hos|3 (many would hesitate)
+# cut: Bagel bites|3 (many would hesitate)
+# cut: Uncrustables|3 (niche)
+# cut: Wheat Thins|3 (many would hesitate)
+# cut: Cheese ball|3 (vague)
+# cut: Funyuns|3 (niche)
+# cut: Takis|3 (niche)
+# cut: Combos|3 (ambiguous)
+# cut: Bugles|3 (ambiguous)
+# cut: Corn nuts|3 (niche)
+# cut: Wasabi peas|3 (niche)
+# cut: Seaweed snacks|3 (niche)
+# cut: Pita chips|3 (many would hesitate)
+# cut: Veggie tray|3 (vague)
+# cut: Elote|3 (many would hesitate)
+# cut: Tostitos|3 (near-duplicate of Tortilla chips)
+# cut: Soft pretzel|4 (near-duplicate of Pretzel)
+# cut: Candy apple|4 (near-duplicate of Caramel apple)
+# cut: Chips and dip|4 (near-duplicate of Chips and salsa)
+# cut: Salsa|4 (boundary: also a dance; kept as Chips and salsa)

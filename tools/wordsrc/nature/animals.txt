@@ -1,0 +1,242 @@
+# Nature & Science / animals — all creatures incl. sea life, insects, birds, dinosaurs
+# Farm & pets
+Dog|5
+Cat|5
+Horse|5
+Cow|5
+Bull|5
+Pig|5
+Sheep|5
+Goat|5
+Chicken|5
+Rooster|5
+Duck|5
+Turkey|5
+Rabbit|5
+Hamster|5
+Guinea pig|5
+Goldfish|5
+Parrot|5
+Donkey|5
+Llama|5
+Alpaca|4
+Camel|5
+Mouse|5
+Rat|5
+Ferret|4
+Ox|4
+# cut: Puppy|5 (near-duplicate of Dog)
+# cut: Kitten|5 (near-duplicate of Cat)
+# cut: Pony|5 (near-duplicate of Horse)
+# cut: Lamb|5 (near-duplicate of Sheep)
+# cut: Mule|4 (near-duplicate of Donkey; often confused)
+# cut: Hen|4 (near-duplicate of Chicken)
+# cut: Cattle|4 (near-duplicate of Cow)
+# Wild mammals
+Lion|5
+Tiger|5
+Elephant|5
+Giraffe|5
+Zebra|5
+Hippo|5
+Rhino|5
+Gorilla|5
+Chimpanzee|5
+Monkey|5
+Orangutan|4
+Baboon|4
+Kangaroo|5
+Koala|5
+Panda|5
+Polar bear|5
+Grizzly bear|5
+Wolf|5
+Fox|5
+Coyote|4
+Deer|5
+Moose|5
+Reindeer|5
+Squirrel|5
+Chipmunk|5
+Raccoon|5
+Skunk|5
+Porcupine|5
+Hedgehog|5
+Beaver|5
+Otter|5
+Badger|4
+Bat|5
+Sloth|5
+Armadillo|4
+Anteater|4
+Cheetah|5
+Leopard|5
+Jaguar|4
+Panther|4
+Hyena|5
+Warthog|4
+Meerkat|4
+Lemur|4
+Platypus|4
+Opossum|4
+Bison|4
+Buffalo|4
+Elk|4
+Mole|4
+# cut: Hippopotamus|4 (near-duplicate of Hippo)
+# cut: Rhinoceros|4 (near-duplicate of Rhino)
+# cut: Brown bear|4 (near-duplicate of Grizzly bear)
+# cut: Okapi|2 (too obscure)
+# cut: Tapir|2 (too obscure)
+# cut: Wombat|3 (many would hesitate)
+# cut: Wolverine|3 (better known as a superhero; ambiguous)
+# cut: Gazelle|3 (often confused with antelope)
+# cut: Antelope|3 (many would hesitate)
+# cut: Wildebeest|3 (many would hesitate)
+# cut: Mongoose|3 (many would hesitate)
+# cut: Gerbil|3 (many would hesitate)
+# cut: Jackal|3 (many would hesitate)
+# cut: Lynx|3 (many would hesitate)
+# cut: Bobcat|3 (many would hesitate)
+# cut: Yak|3 (many would hesitate)
+# cut: Unicorn|5 (mythical; belongs with fictional characters)
+# Birds
+Eagle|5
+Owl|5
+Hawk|4
+Falcon|4
+Vulture|4
+Penguin|5
+Flamingo|5
+Peacock|5
+Ostrich|5
+Emu|4
+Swan|5
+Goose|5
+Pigeon|5
+Crow|5
+Raven|4
+Blue jay|4
+Cardinal|4
+Hummingbird|5
+Woodpecker|5
+Seagull|5
+Pelican|5
+Toucan|4
+Stork|4
+Canary|4
+Parakeet|4
+Sparrow|4
+Dodo|4
+# cut: Bald eagle|5 (near-duplicate of Eagle)
+# cut: Robin|4 (clashes with the Batman character in Entertainment)
+# cut: Roadrunner|4 (clashes with the cartoon character)
+# cut: Kiwi|4 (fruit belongs to Food)
+# cut: Crane|3 (ambiguous with the construction machine)
+# cut: Heron|3 (many would hesitate)
+# cut: Magpie|3 (many would hesitate)
+# cut: Albatross|3 (many would hesitate)
+# cut: Puffin|3 (many would hesitate)
+# cut: Finch|3 (many would hesitate)
+# Sea life
+Shark|5
+Whale|5
+Killer whale|5
+Dolphin|5
+Octopus|5
+Squid|5
+Jellyfish|5
+Starfish|5
+Seahorse|5
+Crab|5
+Lobster|5
+Shrimp|5
+Clam|4
+Oyster|4
+Seal|5
+Sea lion|4
+Walrus|5
+Turtle|5
+Tortoise|4
+Stingray|5
+Eel|4
+Salmon|4
+Tuna|4
+Swordfish|4
+Pufferfish|4
+Clownfish|4
+Piranha|5
+Manatee|4
+Narwhal|4
+# cut: Great white shark|4 (near-duplicate of Shark)
+# cut: Blue whale|4 (near-duplicate of Whale)
+# cut: Orca|4 (near-duplicate of Killer whale)
+# cut: Sea turtle|5 (near-duplicate of Turtle)
+# cut: Barracuda|3 (many would hesitate)
+# cut: Sea urchin|3 (many would hesitate)
+# cut: Hammerhead shark|3 (near-duplicate of Shark)
+# cut: Anglerfish|2 (niche)
+# Reptiles & amphibians
+Snake|5
+Rattlesnake|5
+Cobra|5
+Python|4
+Lizard|5
+Iguana|4
+Chameleon|5
+Gecko|4
+Komodo dragon|4
+Crocodile|5
+Alligator|5
+Frog|5
+Toad|4
+Tadpole|4
+Salamander|4
+# cut: Boa constrictor|3 (many would hesitate)
+# cut: Newt|3 (many would hesitate)
+# cut: Anaconda|3 (many would hesitate)
+# Insects, spiders & bugs
+Bee|5
+Wasp|4
+Hornet|4
+Ant|5
+Butterfly|5
+Caterpillar|5
+Moth|4
+Ladybug|5
+Grasshopper|5
+Dragonfly|5
+Firefly|5
+Mosquito|5
+Beetle|4
+Cockroach|5
+Termite|4
+Flea|4
+Spider|5
+Tarantula|5
+Scorpion|5
+Worm|5
+Snail|5
+Slug|4
+Centipede|4
+Praying mantis|4
+# cut: Bumblebee|5 (near-duplicate of Bee)
+# cut: Cricket|4 (clashes with the sport in Everyday Life)
+# cut: Fly|4 (too ambiguous with the verb)
+# cut: Tick|3 (ambiguous; many would hesitate)
+# cut: Earthworm|4 (near-duplicate of Worm)
+# cut: Cicada|3 (many would hesitate)
+# cut: Black widow|4 (also a Marvel character)
+# Dinosaurs & prehistoric
+Dinosaur|5
+T-Rex|5
+Triceratops|5
+Stegosaurus|4
+Velociraptor|4
+Brontosaurus|4
+Pterodactyl|4
+Woolly mammoth|4
+Saber-toothed tiger|4
+# cut: Tyrannosaurus|4 (near-duplicate of T-Rex)
+# cut: Diplodocus|3 (many would hesitate)
+# cut: Ankylosaurus|2 (niche)

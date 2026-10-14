@@ -1,0 +1,175 @@
+# Things / clothing: clothes, shoes, accessories, jewelry
+# Tops & outerwear
+T-shirt|5
+Tank top|5
+Polo shirt|4
+Hawaiian shirt|5
+Dress shirt|4
+Flannel shirt|4
+Blouse|5
+Crop top|4
+Sweater|5
+Turtleneck|5
+Cardigan|4
+Hoodie|5
+Sweatshirt|5
+Jacket|5
+Leather jacket|5
+Denim jacket|4
+Puffer jacket|4
+Windbreaker|4
+Coat|5
+Trench coat|5
+Raincoat|5
+Parka|4
+Lab coat|5
+Vest|4
+Blazer|4
+Poncho|5
+Cape|5
+# cut: Camisole|3 (hesitation)
+# cut: Pullover|3 (near-duplicate of Sweater)
+# cut: Anorak|2 (niche)
+# Bottoms & full outfits
+Jeans|5
+Shorts|5
+Sweatpants|5
+Yoga pants|5
+Leggings|5
+Cargo pants|4
+Khakis|4
+Bell-bottoms|4
+Skirt|5
+Miniskirt|4
+Hula skirt|4
+Kilt|5
+Dress|5
+Wedding dress|5
+Ball gown|4
+Prom dress|4
+Suit|5
+Tuxedo|5
+Overalls|5
+Jumpsuit|4
+Onesie|5
+Tracksuit|4
+Pajamas|5
+Nightgown|4
+Bathrobe|5
+Swimsuit|5
+Bikini|5
+Wetsuit|4
+Snowsuit|4
+Apron|5
+Kimono|4
+Toga|4
+Lederhosen|4
+Tutu|5
+Leotard|4
+# cut: Capri pants|3 (hesitation)
+# cut: Culottes|2 (niche)
+# cut: Romper|3 (hesitation)
+# cut: Dirndl|2 (niche)
+# cut: Sari|3 (many hesitate)
+# cut: Petticoat|3 (dated)
+# Underwear & socks
+Underwear|5
+Boxers|4
+Socks|5
+Tights|4
+Long johns|4
+Leg warmers|4
+# cut: Garter|3 (hesitation)
+# Shoes
+Sneakers|5
+Boots|5
+Cowboy boots|5
+Rain boots|5
+Hiking boots|4
+Snow boots|4
+Sandals|5
+Flip-flops|5
+High heels|5
+Platform shoes|4
+Slippers|5
+Loafers|4
+Clogs|4
+Moccasins|4
+Crocs|4
+Tap shoes|4
+Shoelace|5
+# cut: Espadrilles|2 (niche)
+# cut: Brogues|2 (niche)
+# cut: Stilettos|4 (near-duplicate of High heels)
+# cut: Wedges|3 (ambiguous)
+# Hats & headwear
+Baseball cap|5
+Beanie|5
+Cowboy hat|5
+Top hat|5
+Sombrero|5
+Beret|4
+Fedora|4
+Bucket hat|4
+Sun hat|4
+Hard hat|5
+Chef's hat|4
+Crown|5
+Tiara|5
+Headband|5
+Bandana|5
+Earmuffs|5
+Ski mask|4
+Wig|5
+Veil|4
+# cut: Fascinator|2 (niche)
+# cut: Bowler hat|3 (hesitation)
+# cut: Visor|3 (ambiguous)
+# Accessories
+Scarf|5
+Shawl|4
+Gloves|5
+Mittens|5
+Belt|5
+Suspenders|5
+Necktie|5
+Bow tie|5
+Sunglasses|5
+Eyeglasses|4
+Monocle|4
+Eye patch|4
+Face mask|4
+Purse|5
+Wallet|5
+Tote bag|4
+Fanny pack|5
+Briefcase|5
+Wristwatch|5
+Bib|4
+Zipper|5
+Hair clip|4
+Bobby pin|4
+Scrunchie|4
+Hair tie|4
+# cut: Handbag|5 (near-duplicate of Purse)
+# cut: Clutch|3 (ambiguous)
+# cut: Cravat|2 (niche)
+# cut: Ascot|2 (niche)
+# cut: Tie clip|3 (hesitation)
+# Jewelry
+Necklace|5
+Bracelet|5
+Earrings|5
+Engagement ring|5
+Pearl necklace|4
+Charm bracelet|4
+Friendship bracelet|4
+Mood ring|4
+Anklet|4
+Brooch|4
+Locket|4
+Cufflinks|4
+Nose ring|4
+# cut: Pendant|3 (hesitation)
+# cut: Wedding ring|5 (near-duplicate of Engagement ring)
+# cut: Tiepin|2 (niche)

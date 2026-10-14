@@ -1,0 +1,140 @@
+# Things / tools: hand tools, power tools, garden tools, office tools
+# Hand tools
+Hammer|5
+Screwdriver|5
+Wrench|5
+Pliers|5
+Saw|5
+Hacksaw|4
+Axe|5
+Hatchet|4
+Sledgehammer|5
+Mallet|4
+Crowbar|5
+Chisel|4
+Pickaxe|5
+Tape measure|5
+Toolbox|5
+Tool belt|5
+Pocket knife|5
+Swiss Army knife|5
+Utility knife|4
+Box cutter|4
+Wire cutters|4
+Bolt cutters|4
+Allen wrench|4
+Socket wrench|4
+Clamp|4
+Anvil|4
+Sandpaper|5
+Steel wool|4
+Paintbrush|5
+Paint roller|4
+Spray paint|5
+Ladder|5
+Step stool|4
+Workbench|4
+Nail|5
+Screw|5
+Bolt|4
+Rope|5
+Chain|4
+Padlock|5
+Bungee cord|4
+Zip tie|4
+Duct tape|5
+Super glue|5
+Masking tape|4
+Tarp|4
+Safety goggles|4
+Magnifying glass|5
+Binoculars|5
+Stethoscope|5
+Knitting needles|4
+Easel|4
+Paint palette|4
+Lasso|4
+Pulley|4
+# cut: Spirit level|3 (hesitation)
+# cut: Vise|3 (hesitation)
+# cut: Awl|1 (obscure)
+# cut: Plumb bob|2 (niche)
+# cut: Stud finder|3 (hesitation)
+# cut: Caulk gun|3 (hesitation)
+# cut: Putty knife|3 (hesitation)
+# cut: Pipe wrench|3 (near-duplicate of Wrench)
+# cut: Wire brush|3 (hesitation)
+# cut: Sawhorse|3 (hesitation)
+# cut: Crochet hook|3 (hesitation)
+# cut: Multi-tool|3 (vague)
+# cut: Jigsaw|4 (conflicts with Jigsaw puzzle in toys)
+# cut: Bellows|3 (dated)
+# Power tools & machinery
+Drill|5
+Chainsaw|5
+Nail gun|5
+Circular saw|4
+Jackhammer|5
+Blowtorch|5
+Soldering iron|4
+Glue gun|4
+Staple gun|4
+Pressure washer|4
+Air compressor|4
+Wrecking ball|5
+Flashlight|5
+Headlamp|4
+Extension cord|5
+Jumper cables|4
+Car jack|4
+Bike pump|4
+# cut: Belt sander|3 (hesitation)
+# cut: Router (tool)|2 (ambiguous with gadget)
+# cut: Angle grinder|3 (hesitation)
+# Garden tools
+Shovel|5
+Rake|5
+Hoe|4
+Pitchfork|5
+Wheelbarrow|5
+Lawn mower|5
+Leaf blower|5
+Hedge trimmer|4
+Garden hose|5
+Watering can|5
+Sprinkler|5
+Trowel|4
+Garden shears|4
+Gardening gloves|4
+Sickle|4
+Scythe|4
+Machete|4
+Plow|4
+Weed whacker|4
+# cut: Pruning shears|3 (near-duplicate of Garden shears)
+# cut: Edger|2 (niche)
+# cut: Mattock|1 (obscure)
+# cut: Dibber|1 (obscure)
+# cut: Snow shovel|4 (near-duplicate of Shovel)
+# Office tools
+Stapler|5
+Paper clip|5
+Rubber band|5
+Thumbtack|5
+Sticky note|5
+Scotch tape|5
+Tape dispenser|4
+Hole punch|4
+Paper shredder|4
+Clipboard|4
+Filing cabinet|4
+Envelope|4
+Letter opener|4
+Rubber stamp|4
+Business card|4
+Name tag|4
+# cut: Binder clip|3 (hesitation)
+# cut: Rolodex|3 (dated)
+# cut: Label maker|3 (hesitation)
+# cut: Push pin|5 (near-duplicate of Thumbtack)
+# cut: Ink pad|3 (hesitation)

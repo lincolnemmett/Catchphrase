@@ -1,0 +1,136 @@
+# Everyday Life — Places (man-made venues, buildings, rooms)
+# Natural features (Beach, Mountain, etc.) belong to Nature & Science/geography.
+# Airport and Hotel are in travel; Classroom etc. in school.
+Library|5
+Hospital|5
+Zoo|5
+Gym|5
+Kitchen|5
+Bathroom|5
+Bedroom|5
+Living room|5
+Dining room|5
+Basement|5
+Attic|5
+Garage|5
+Backyard|5
+Laundry room|4
+Closet|5
+Restaurant|5
+Supermarket|5
+Grocery store|5
+Bakery|5
+Coffee shop|5
+Diner|5
+Bar|4
+Pub|4
+Nightclub|5
+Movie theater|5
+Theater|4
+Museum|5
+Art gallery|5
+Aquarium|5
+Amusement park|5
+Water park|5
+Bowling alley|5
+Ice rink|5
+Arcade|5
+Casino|5
+Circus|5
+Mall|5
+Bank|5
+Post office|5
+Police station|5
+Fire station|5
+Prison|5
+Courthouse|5
+City hall|4
+Church|5
+Castle|5
+Palace|5
+Lighthouse|5
+Skyscraper|5
+Farm|5
+Barn|5
+Factory|5
+Warehouse|4
+Office|5
+Gas station|5
+Car wash|5
+Parking lot|5
+Playground|5
+Park|5
+Swimming pool|5
+Stadium|5
+Hair salon|5
+Barbershop|4
+Pharmacy|5
+Dentist's office|4
+Vet clinic|4
+Laundromat|5
+Hardware store|5
+Bookstore|5
+Toy store|5
+Pet store|5
+Flower shop|4
+Ice cream shop|4
+Pizzeria|4
+Food court|5
+Drive-thru|5
+Cemetery|4
+Apartment|5
+Mansion|5
+Cabin|5
+Treehouse|5
+Igloo|5
+Tent|4
+Haunted house|5
+Greenhouse|4
+Daycare|5
+Nursing home|4
+Spa|5
+Sauna|4
+Gift shop|4
+Concert hall|4
+Opera house|4
+Bridge|5
+Tunnel|5
+Elevator|5
+Escalator|5
+Balcony|5
+Porch|5
+Hallway|5
+Staircase|5
+Fountain|4
+Jail|4
+Train station|5
+Bus stop|5
+Subway station|4
+Dog park|4
+Golf course|5
+Bowling green|3
+Tattoo parlor|4
+Hot tub|4
+Shed|4
+Front yard|4
+Pantry|4
+Nursery|4
+Waiting room|5
+Emergency room|5
+Dressing room|4
+Locker room|4
+Laboratory|5
+# Cuts
+# cut: Bowling green|3 (regional)
+# cut: Jail|4 (near-duplicate of Prison)
+# cut: Hot tub|4 (an object more than a place)
+# cut: Planetarium|3 (hesitation)
+# cut: Observatory|3 (hesitation)
+# cut: Conservatory|2 (ambiguous)
+# cut: Foyer|3 (hesitation)
+# cut: Mausoleum|2 (niche)
+# cut: Abattoir|1 (obscure)
+# cut: Cul-de-sac|3 (not really a venue)
+# cut: Pawn shop|3 (hesitation)
+# cut: Dry cleaner|3 (job/place ambiguous)
+# cut: Locker room|4 (moved to sports? no: kept as place) 

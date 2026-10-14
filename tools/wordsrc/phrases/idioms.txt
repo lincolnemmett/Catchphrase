@@ -1,0 +1,356 @@
+# Phrases & Actions / Idioms
+# Real, commonly used idiom wording, 1-4 words, no commas.
+Break a leg|5
+Piece of cake|5
+Spill the beans|5
+Hit the road|5
+Hit the sack|5
+Hit the hay|4
+Cold feet|5
+Under the weather|5
+Raining cats and dogs|5
+Cat got your tongue|5
+Bite the bullet|5
+Break the ice|5
+Couch potato|5
+Hit the jackpot|5
+Hit the books|4
+Cry wolf|4
+Cry over spilled milk|4
+Beat around the bush|5
+Best of both worlds|5
+Blessing in disguise|5
+Call it a day|5
+Cut corners|5
+Cutting it close|4
+Easy as pie|5
+Get out of hand|4
+Get the ball rolling|5
+Give it a shot|4
+Go the extra mile|5
+Hang in there|5
+In hot water|5
+In the same boat|5
+Jump the gun|5
+Keep your chin up|5
+The last straw|5
+Blow off steam|5
+Miss the boat|4
+No-brainer|5
+On the ball|4
+On cloud nine|5
+On thin ice|5
+Out of the blue|5
+Pulling my leg|5
+Rain check|5
+Sit tight|4
+Speak of the devil|5
+Steal the show|5
+Through thick and thin|5
+Up in the air|4
+Wild goose chase|5
+Add insult to injury|5
+Back to square one|5
+Bite your tongue|4
+Black sheep|5
+Brownie points|5
+Burn the midnight oil|5
+Burning bridges|4
+Bury the hatchet|5
+Chip on your shoulder|4
+Cool as a cucumber|5
+Cut to the chase|5
+Devil's advocate|4
+Down to earth|5
+Draw the line|4
+Drop the ball|5
+Elephant in the room|5
+Face the music|5
+Feeling blue|4
+Fish out of water|5
+Fit as a fiddle|5
+Get your act together|4
+Cold shoulder|5
+Go bananas|5
+Go with the flow|5
+Green thumb|5
+Green with envy|5
+Hands down|4
+Head over heels|5
+Heart of gold|5
+Hold your horses|5
+Icing on the cake|5
+In a nutshell|5
+Jump on the bandwagon|5
+Kick the bucket|5
+Learn the ropes|5
+Let sleeping dogs lie|4
+Let your hair down|5
+Lose your marbles|5
+Make ends meet|4
+My lips are sealed|5
+Nest egg|4
+Night owl|5
+Early bird|5
+Off the hook|5
+On the fence|5
+On the same page|5
+Out of the woods|4
+Over the moon|5
+Over the hill|5
+Paint the town red|5
+Pie in the sky|4
+Play it by ear|5
+Pull yourself together|4
+Pull strings|4
+Rock the boat|5
+Run out of steam|4
+Saved by the bell|5
+See eye to eye|5
+Sleep on it|5
+Smell a rat|4
+Spill the tea|4
+Stab in the back|5
+Stick your neck out|4
+Tie the knot|5
+Tip of the iceberg|5
+Tongue-tied|5
+Top dog|5
+Turn a blind eye|4
+Peas in a pod|4
+Walk on eggshells|5
+Water under the bridge|5
+Wet blanket|4
+When pigs fly|5
+The whole nine yards|4
+Zip your lip|5
+Butterflies in my stomach|5
+Cash cow|4
+Catch some Z's|4
+Chicken out|5
+Clean slate|4
+Close call|5
+Cold turkey|4
+Crocodile tears|5
+Dark horse|4
+Eat your words|4
+Eat humble pie|4
+Egg on your face|4
+Silver lining|5
+Fair and square|5
+Food for thought|5
+The grass is greener|5
+Hit the ground running|4
+In the doghouse|5
+Nick of time|5
+Jack of all trades|5
+Fingers crossed|5
+Knock on wood|5
+Lend a hand|5
+Lion's share|4
+Long shot|5
+Monkey business|5
+Needle in a haystack|5
+Odd one out|5
+Think outside the box|5
+Pain in the neck|5
+Penny for your thoughts|5
+Pig out|5
+Play with fire|4
+Practice what you preach|5
+Put your foot down|5
+Read between the lines|5
+Red tape|4
+Ring a bell|5
+Rule of thumb|5
+Sitting duck|4
+Sleep like a log|5
+Spitting image|4
+Start from scratch|5
+Stir the pot|4
+Sweet tooth|5
+Grain of salt|5
+Throw in the towel|5
+Tickled pink|4
+Under the radar|4
+Wake-up call|5
+Weather the storm|4
+Wing it|5
+Bend over backwards|4
+Big cheese|4
+Bite the dust|5
+Bottom line|4
+Break the bank|5
+Burst your bubble|5
+Butter up|4
+By the book|5
+Can of worms|5
+Change of heart|5
+Clear the air|4
+Come rain or shine|4
+Cry me a river|5
+Dead end|5
+Do or die|5
+Down in the dumps|5
+Dressed to the nines|4
+Eager beaver|4
+Fat chance|5
+Fly off the handle|4
+Full of hot air|4
+Get off my back|4
+Get the picture|4
+Go for broke|4
+Have a ball|5
+Head in the clouds|5
+Jump ship|4
+Keep it under wraps|4
+Kick the habit|4
+Leave no stone unturned|4
+Life of the party|5
+Mind your own business|5
+Mum's the word|5
+On the dot|4
+On the house|5
+Out of this world|5
+Over my dead body|5
+Pipe dream|4
+Plenty of fish|4
+Push your buttons|5
+Quiet as a mouse|5
+Rain on my parade|5
+Rock bottom|5
+Second nature|4
+Shake a leg|4
+Sharp as a tack|4
+Shoot the breeze|4
+Skeleton in the closet|5
+Small talk|5
+Spread like wildfire|5
+Stand your ground|4
+Straight face|4
+Take a hike|5
+Take the cake|4
+Talk is cheap|4
+Tall tale|4
+Loose ends|4
+Up for grabs|5
+Upper hand|5
+Walk in the park|5
+White lie|5
+Wolf in sheep's clothing|5
+All ears|5
+All thumbs|4
+Back to basics|4
+Bad apple|4
+Ballpark figure|4
+Bells and whistles|4
+Bring home the bacon|5
+Busy as a bee|5
+Call the shots|5
+Cheap shot|4
+Clean as a whistle|5
+Drag your feet|4
+Get a grip|5
+Hit the spot|5
+In the bag|4
+In the dark|4
+Keep your cool|5
+Mad as a hatter|5
+Make a scene|5
+No strings attached|5
+Off the charts|5
+Out on a limb|4
+Over the top|5
+Party pooper|5
+Pecking order|4
+Pick your brain|4
+Point of no return|5
+Pull the plug|5
+Raise the bar|5
+Rat race|4
+Caught red-handed|5
+Ride shotgun|5
+It's not rocket science|5
+Runs in the family|5
+Shot in the dark|5
+Sick as a dog|5
+Sink or swim|5
+Smart cookie|4
+Sour grapes|4
+Take a back seat|4
+Up the creek|4
+Ants in your pants|5
+Apple of my eye|5
+Backseat driver|5
+Bad hair day|5
+Behind the scenes|5
+Birds of a feather|5
+Bone to pick|4
+Calm before the storm|5
+Cherry on top|5
+Dime a dozen|5
+Dirt cheap|5
+Down the drain|5
+Eat like a bird|4
+Eat like a horse|5
+Flash in the pan|4
+Foot the bill|4
+Get your feet wet|4
+Glass half full|5
+Gut feeling|5
+Have a blast|5
+In stitches|4
+Keep your eyes peeled|5
+Know-it-all|5
+On pins and needles|5
+Out of the loop|5
+Pass with flying colors|5
+Pull an all-nighter|5
+Running on empty|4
+Smooth sailing|5
+Sweep under the rug|4
+Twist my arm|4
+Wishy-washy|4
+# --- cuts ---
+# cut: Barking up the wrong tree|5 (5 words)
+# cut: Once in a blue moon|5 (5 words)
+# cut: Cost an arm and a leg|5 (6 words)
+# cut: Let the cat out of the bag|5 (7 words)
+# cut: Kill two birds with one stone|5 (6 words)
+# cut: Back to the drawing board|5 (5 words)
+# cut: The ball is in your court|5 (6 words)
+# cut: By the skin of your teeth|4 (6 words)
+# cut: It takes two to tango|5 (5 words)
+# cut: Turn over a new leaf|4 (5 words)
+# cut: Two peas in a pod|5 (5 words; kept "Peas in a pod")
+# cut: Put a sock in it|4 (5 words)
+# cut: Rub salt in the wound|4 (5 words)
+# cut: Straight from the horse's mouth|4 (5 words)
+# cut: Not my cup of tea|5 (5 words)
+# cut: Put your foot in your mouth|4 (6 words)
+# cut: Bull in a china shop|5 (5 words)
+# cut: Go out on a limb|4 (5 words; kept "Out on a limb")
+# cut: New kid on the block|4 (5 words)
+# cut: Bright-eyed and bushy-tailed|4 (5 words)
+# cut: Shape up or ship out|4 (5 words)
+# cut: Hot potato|5 (party game, belongs to games)
+# cut: Hot seat|3 (bare form not an idiom)
+# cut: Cut the mustard|3 (many would hesitate)
+# cut: Pay through the nose|3 (dated)
+# cut: The real McCoy|3 (dated)
+# cut: Right as rain|3 (dated)
+# cut: Nip in the bud|3 (awkward shortened form)
+# cut: Bob's your uncle|2 (British only)
+# cut: Hunky-dory|3 (dated)
+# cut: Hair of the dog|3 (alcohol reference)
+# cut: Throw shade|3 (slang, age-skewed)
+# cut: Go nuts|4 (near-duplicate of Go bananas)
+# cut: Let off steam|4 (duplicate of Blow off steam)
+# cut: Steal my thunder|3 (less common than Steal the show)
+# cut: Trial and error|4 (not really an idiom; abstract)
+# cut: Make waves|3 (ambiguous)
+# cut: Open book|3 (ambiguous)
+# cut: Pinch of salt|3 (duplicate of Grain of salt)
+# cut: Know the ropes|4 (duplicate of Learn the ropes)
+# cut: Hot under the collar|3 (dated)
+# cut: Snug as a bug in a rug|4 (7 words)

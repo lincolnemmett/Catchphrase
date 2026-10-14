@@ -1,0 +1,183 @@
+# Food & Drink / Dishes — main dishes, soups, salads, sandwiches, breakfast plates, sides.
+# Bare animal names avoided (food forms only). Snack/appetizer items live in snacks.txt.
+Pizza|5
+Hamburger|5
+Cheeseburger|5
+Hot dog|5
+Spaghetti|5
+Lasagna|5
+Macaroni and cheese|5
+Fried chicken|5
+Chicken nuggets|5
+Chicken wings|5
+Taco|5
+Burrito|5
+Quesadilla|5
+Enchilada|4
+Fajitas|4
+Tamale|4
+Chimichanga|4
+Sushi|5
+Sashimi|4
+California roll|4
+Ramen|5
+Pad thai|4
+Fried rice|5
+Chow mein|4
+Lo mein|4
+Orange chicken|4
+General Tso's chicken|4
+Sweet and sour chicken|4
+Kung pao chicken|4
+Beef and broccoli|4
+Egg roll|5
+Spring roll|4
+Dumplings|5
+Wonton soup|4
+Hot and sour soup|4
+Egg drop soup|4
+Peking duck|4
+Hot pot|4
+Curry|5
+Chicken tikka masala|4
+Butter chicken|4
+Teriyaki chicken|4
+Tempura|4
+Miso soup|4
+Pho|4
+Steak|5
+Filet mignon|4
+Prime rib|4
+Surf and turf|4
+Meatloaf|5
+Meatballs|5
+Pot roast|4
+Roast beef|5
+Roast chicken|4
+Pork chops|5
+Lamb chops|4
+Baby back ribs|4
+Pulled pork|4
+Brisket|4
+Corned beef|4
+Salisbury steak|4
+Chicken fried steak|4
+Beef Wellington|4
+Shepherd's pie|4
+Chicken pot pie|4
+Fish and chips|5
+Fish sticks|5
+Lobster roll|4
+Crab cakes|4
+Shrimp cocktail|4
+Shrimp scampi|4
+Clam chowder|4
+Lobster bisque|4
+Chili|5
+Beef stew|4
+Chicken noodle soup|5
+Tomato soup|5
+French onion soup|4
+Split pea soup|4
+Minestrone|4
+Grilled cheese|5
+BLT|4
+Club sandwich|4
+Peanut butter and jelly|5
+Sloppy joe|4
+Philly cheesesteak|4
+Meatball sub|4
+Tuna melt|4
+Egg salad|4
+Chicken salad|4
+Caesar salad|5
+Greek salad|4
+Cobb salad|4
+Fruit salad|5
+Potato salad|5
+Pasta salad|4
+Coleslaw|4
+Mashed potatoes|5
+Baked potato|5
+French fries|5
+Hash browns|5
+Corn on the cob|5
+Baked beans|4
+Stuffing|4
+Pancakes|5
+Waffles|5
+French toast|5
+Omelet|5
+Scrambled eggs|5
+Eggs Benedict|4
+Bacon and eggs|4
+Avocado toast|4
+Oatmeal|5
+Cereal|5
+Toast|5
+Grits|4
+Biscuits and gravy|4
+Chicken and waffles|4
+Quiche|4
+Fettuccine Alfredo|4
+Ravioli|5
+Tortellini|4
+Spaghetti and meatballs|4
+Calzone|4
+Garlic bread|5
+Bruschetta|4
+Chicken parmesan|4
+Eggplant parmesan|4
+Paella|4
+Risotto|4
+Goulash|4
+Schnitzel|4
+Bratwurst|4
+Bangers and mash|4
+Falafel|4
+Gyro|4
+Kebab|4
+Shawarma|4
+Fondue|4
+Poutine|4
+Jambalaya|4
+Gumbo|4
+Casserole|4
+Stir-fry|5
+Stuffed peppers|4
+Veggie burger|4
+Sliders|4
+Escargot|4
+Frog legs|4
+Haggis|4
+Corn dog|5
+# cut: Buffalo wings|4 (near-duplicate of Chicken wings)
+# cut: Biryani|3 (many would hesitate)
+# cut: Gazpacho|3 (many would hesitate)
+# cut: Reuben|3 (many would hesitate)
+# cut: Carbonara|3 (many would hesitate)
+# cut: Gnocchi|3 (many would hesitate)
+# cut: Stromboli|3 (regional)
+# cut: Pierogi|3 (many would hesitate)
+# cut: Bibimbap|3 (many would hesitate)
+# cut: Udon|3 (many would hesitate)
+# cut: Ceviche|3 (many would hesitate)
+# cut: Cabbage rolls|3 (many would hesitate)
+# cut: Lentil soup|3 (generic, less instant)
+# cut: Cornish pasty|3 (regional)
+# cut: Frito pie|3 (regional)
+# cut: Glazed ham|3 (vague)
+# cut: Coq au vin|3 (many would hesitate)
+# cut: Bouillabaisse|2 (niche)
+# cut: Pad see ew|2 (niche)
+# cut: Tom yum|3 (many would hesitate)
+# cut: Mongolian beef|3 (many would hesitate)
+# cut: Ratatouille|4 (boundary: famous Pixar movie belongs to Entertainment)
+# cut: Pot stickers|4 (near-duplicate of Dumplings)
+# cut: Fish tacos|4 (near-duplicate of Taco)
+# cut: Chicken tenders|4 (near-duplicate of Chicken nuggets)
+# cut: T-bone steak|4 (near-duplicate of Steak)
+# cut: Breakfast burrito|4 (near-duplicate of Burrito)
+# cut: Chili dog|4 (near-duplicate of Hot dog)
+# cut: Deep-dish pizza|4 (near-duplicate of Pizza)
+# cut: Ribs|4 (boundary: body part)

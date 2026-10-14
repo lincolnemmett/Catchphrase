@@ -1,0 +1,132 @@
+# Food & Drink / Desserts — cakes, pies, cookies, frozen treats, pastries, sweets.
+Cake|5
+Chocolate cake|5
+Cheesecake|5
+Cupcake|5
+Carrot cake|5
+Red velvet cake|4
+Pound cake|4
+Angel food cake|4
+Coffee cake|4
+Ice cream cake|4
+Pineapple upside-down cake|4
+Black Forest cake|4
+Lava cake|4
+Fruitcake|4
+Bundt cake|4
+Cake pop|4
+Tiramisu|4
+Apple pie|5
+Pumpkin pie|5
+Cherry pie|5
+Pecan pie|4
+Key lime pie|4
+Banana cream pie|4
+Lemon meringue pie|4
+Sweet potato pie|4
+Boston cream pie|4
+Mud pie|4
+Peach cobbler|4
+Apple crumble|4
+Apple strudel|4
+Apple fritter|4
+Fruit tart|4
+Ice cream|5
+Sundae|5
+Banana split|5
+Gelato|4
+Sherbet|4
+Sorbet|4
+Frozen yogurt|5
+Soft serve|4
+Ice cream sandwich|5
+Ice cream cone|5
+Popsicle|5
+Snow cone|5
+Italian ice|4
+Neapolitan ice cream|4
+Rocky road|4
+Cookies and cream|4
+Mint chocolate chip|4
+Cookie dough|5
+Brownie|5
+Chocolate chip cookie|5
+Oatmeal raisin cookie|4
+Sugar cookie|4
+Peanut butter cookie|4
+Snickerdoodle|4
+Fortune cookie|5
+Gingerbread|5
+Gingerbread house|4
+Shortbread|4
+Macaron|4
+Biscotti|4
+Cannoli|4
+Éclair|4
+Cream puff|4
+Crème brûlée|4
+Flan|4
+Custard|4
+Pudding|5
+Rice pudding|4
+Bread pudding|4
+Chocolate mousse|4
+Parfait|4
+Jell-O|5
+Baklava|4
+Churro|5
+Funnel cake|5
+Donut|5
+Cinnamon roll|5
+Danish pastry|4
+Muffin|5
+Scone|4
+Crepe|4
+Beignet|4
+Soufflé|4
+Meringue|4
+Fudge|5
+Toffee|4
+Peanut brittle|4
+Chocolate truffle|4
+Chocolate-covered strawberries|4
+S'mores|5
+Rice Krispies Treats|4
+Lemon bars|4
+Banana bread|4
+Mochi|4
+# cut: Strawberry shortcake|4 (boundary: Strawberry Shortcake is a cartoon character)
+# cut: Birthday cake|5 (boundary risk with Holidays; avoided)
+# cut: Wedding cake|5 (boundary risk with Holidays; avoided)
+# cut: Whoopie pie|3 (regional)
+# cut: Blondie|3 (ambiguous)
+# cut: Macaroon|3 (near-duplicate of Macaron)
+# cut: Profiterole|3 (many would hesitate)
+# cut: Trifle|3 (many would hesitate)
+# cut: Petit four|3 (many would hesitate)
+# cut: Pavlova|3 (many would hesitate)
+# cut: Tres leches|3 (many would hesitate)
+# cut: Sopapilla|3 (regional)
+# cut: Kulfi|2 (niche)
+# cut: Gulab jamun|2 (niche)
+# cut: Zeppole|2 (niche)
+# cut: Panna cotta|3 (many would hesitate)
+# cut: Marzipan|3 (many would hesitate)
+# cut: Zucchini bread|3 (less instant)
+# cut: Butter pecan|3 (less instant)
+# cut: Yule log|3 (ambiguous)
+# cut: King cake|3 (regional)
+# cut: Moon cake|3 (many would hesitate)
+# cut: À la mode|3 (not a dessert itself)
+# cut: Jelly roll|3 (many would hesitate)
+# cut: Swiss roll|3 (many would hesitate)
+# cut: Ladyfingers|3 (many would hesitate)
+# cut: Cronut|3 (short-lived trend)
+# cut: Bear claw|3 (ambiguous; animal part)
+# cut: Sticky bun|3 (less instant)
+# cut: Monkey bread|3 (many would hesitate)
+# cut: Frozen custard|3 (regional)
+# cut: Klondike bar|3 (regional brand)
+# cut: Dulce de leche|3 (many would hesitate)
+# cut: Belgian waffle|4 (near-duplicate of Waffles in dishes)
+# cut: Apple turnover|4 (too many apple pastries; near-duplicate)

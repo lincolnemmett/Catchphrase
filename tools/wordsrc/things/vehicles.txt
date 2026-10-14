@@ -1,0 +1,164 @@
+# Things / vehicles: land, sea, air (no space vehicles; those are Nature/space)
+# Cars & road vehicles
+Car|5
+Sports car|5
+Race car|5
+Convertible|5
+Limousine|5
+Taxi|5
+Police car|5
+Electric car|5
+Self-driving car|4
+Muscle car|4
+Station wagon|4
+Sedan|4
+Hatchback|4
+Minivan|5
+Van|5
+SUV|5
+Jeep|5
+Pickup truck|5
+Monster truck|5
+Volkswagen Beetle|5
+Mini Cooper|4
+Lowrider|4
+Hearse|4
+RV|5
+Go-kart|5
+Golf cart|5
+Dune buggy|4
+ATV|4
+Bumper cars|5
+# cut: Coupe|3 (hesitation)
+# cut: Hybrid car|3 (hesitation)
+# cut: Squad car|4 (near-duplicate of Police car)
+# cut: Motorhome|4 (near-duplicate of RV)
+# Trucks & work vehicles
+Truck|5
+Fire truck|5
+Ambulance|5
+Garbage truck|5
+Ice cream truck|5
+Food truck|5
+Tow truck|5
+Dump truck|5
+Cement mixer|5
+Mail truck|4
+Moving truck|4
+Armored truck|4
+Semi truck|5
+Bulldozer|5
+Excavator|4
+Backhoe|4
+Forklift|5
+Tractor|5
+Combine harvester|4
+Steamroller|5
+Snowplow|5
+Street sweeper|4
+Tank|5
+Humvee|4
+# cut: Fire engine|5 (duplicate of Fire truck)
+# cut: Eighteen-wheeler|4 (near-duplicate of Semi truck)
+# cut: Cherry picker|3 (hesitation)
+# cut: Crane|4 (conflicts with bird in Animals)
+# cut: School bus|5 (likely in School)
+# Two and three wheels, small vehicles
+Bicycle|5
+Tricycle|5
+Unicycle|5
+Tandem bicycle|4
+Mountain bike|4
+Motorcycle|5
+Dirt bike|4
+Moped|4
+Scooter|5
+Electric scooter|4
+Segway|5
+Hoverboard|4
+Wheelchair|5
+Stroller|5
+Shopping cart|5
+Rickshaw|4
+Tuk-tuk|4
+# cut: Penny-farthing|3 (hesitation)
+# cut: Pedicab|2 (niche)
+# cut: Skateboard|5 (sports equipment)
+# Buses & rail
+Bus|5
+Double-decker bus|5
+Tour bus|4
+Shuttle bus|4
+Train|5
+Bullet train|5
+Steam locomotive|4
+Freight train|4
+Caboose|4
+Subway|5
+Tram|4
+Trolley|4
+Cable car|4
+Monorail|4
+# cut: Maglev|2 (niche)
+# cut: Funicular|1 (obscure)
+# Animal-drawn & snow
+Chariot|5
+Carriage|4
+Stagecoach|4
+Covered wagon|4
+Sleigh|5
+Dog sled|4
+Snowmobile|5
+# cut: Toboggan|3 (sports-adjacent, hesitation)
+# cut: Buggy|3 (ambiguous)
+# Boats & ships
+Boat|5
+Ship|5
+Sailboat|5
+Canoe|5
+Kayak|5
+Rowboat|5
+Raft|4
+Yacht|5
+Cruise ship|5
+Submarine|5
+Ferry|5
+Speedboat|5
+Jet ski|5
+Tugboat|5
+Gondola|4
+Pirate ship|5
+Viking ship|4
+Houseboat|4
+Paddle boat|4
+Steamboat|4
+Aircraft carrier|4
+Cargo ship|4
+Fishing boat|4
+Lifeboat|4
+Hovercraft|4
+Catamaran|4
+Airboat|4
+Barge|4
+Ocean liner|4
+# cut: Dinghy|3 (hesitation)
+# cut: Galleon|3 (hesitation)
+# cut: Pontoon boat|3 (hesitation)
+# cut: Battleship|5 (board game conflict)
+# cut: Icebreaker|4 (conflicts with idiom sense)
+# Aircraft
+Airplane|5
+Jumbo jet|5
+Private jet|5
+Fighter jet|5
+Helicopter|5
+Hot air balloon|5
+Blimp|5
+Glider|4
+Hang glider|4
+Seaplane|4
+Biplane|4
+Jetpack|4
+# cut: Zeppelin|4 (near-duplicate of Blimp)
+# cut: Space shuttle|5 (belongs to Nature/space)
+# cut: Paraglider|3 (hesitation)

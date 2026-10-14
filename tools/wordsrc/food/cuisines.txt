@@ -1,0 +1,104 @@
+# Food & Drink / Cuisines — national cuisines and food styles / meal types. Never padded.
+Italian food|5
+Mexican food|5
+Chinese food|5
+Japanese food|5
+Indian food|5
+Thai food|5
+French food|5
+Greek food|5
+Spanish food|4
+Korean food|4
+Vietnamese food|4
+Mediterranean food|4
+Middle Eastern food|4
+Caribbean food|4
+Cajun food|4
+Soul food|4
+Southern food|4
+Tex-Mex|4
+German food|4
+British food|4
+Irish food|4
+American food|4
+Brazilian food|4
+Jamaican food|4
+Hawaiian food|4
+Cuban food|4
+Turkish food|4
+Lebanese food|4
+Moroccan food|4
+Russian food|4
+Filipino food|4
+Korean barbecue|4
+Fast food|5
+Junk food|5
+Street food|5
+Comfort food|5
+Health food|4
+Finger food|4
+Seafood|5
+Frozen food|4
+Barbecue|5
+Buffet|5
+All-you-can-eat|4
+Brunch|5
+Breakfast|5
+Lunch|5
+Dinner|5
+Midnight snack|4
+Takeout|5
+Potluck|4
+Cookout|4
+Home cooking|4
+Fine dining|4
+Leftovers|5
+TV dinner|4
+Vegetarian|5
+Vegan|5
+Gluten-free|4
+Organic food|4
+Keto diet|4
+Dim sum|4
+Tapas|4
+Hibachi|4
+Happy hour|4
+Afternoon tea|4
+Sunday roast|4
+Appetizer|5
+Main course|4
+Side dish|4
+Kids' menu|4
+Meal prep|4
+Farm to table|4
+Breakfast in bed|4
+# cut: Ethiopian food|3 (many would hesitate)
+# cut: Polish food|3 (many would hesitate)
+# cut: Peruvian food|3 (many would hesitate)
+# cut: Hungarian food|3 (many would hesitate)
+# cut: Argentinian food|3 (many would hesitate)
+# cut: Swedish food|3 (many would hesitate)
+# cut: Australian food|3 (vague)
+# cut: Creole food|3 (near-duplicate of Cajun food)
+# cut: Pub grub|3 (regional)
+# cut: Bar food|3 (vague)
+# cut: Diner food|3 (vague)
+# cut: Fusion food|3 (vague)
+# cut: Raw food|3 (niche)
+# cut: Paleo diet|3 (niche)
+# cut: Low-carb|3 (adjective; less clueable)
+# cut: Teppanyaki|3 (near-duplicate of Hibachi)
+# cut: Smorgasbord|3 (dated)
+# cut: Tasting menu|3 (niche)
+# cut: Prix fixe|2 (niche)
+# cut: Clambake|3 (regional)
+# cut: Fish fry|3 (regional)
+# cut: Full English breakfast|3 (regional)
+# cut: Supper|3 (near-duplicate of Dinner)
+# cut: Kosher|3 (religion-adjacent; avoided)
+# cut: Halal|3 (religion-adjacent; avoided)
+# cut: Picnic|5 (boundary risk with Places/Holidays; avoided)
+# cut: Food truck|5 (boundary risk with Places; avoided)
+# cut: Drive-thru|5 (boundary risk with Places; avoided)
+# cut: Room service|4 (boundary: Travel)
+# cut: Continental breakfast|4 (boundary: Travel)

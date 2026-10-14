@@ -1,0 +1,153 @@
+# Everyday Life — School (school life, subjects, school supplies)
+Homework|5
+Backpack|5
+Pencil|5
+Recess|5
+Math|5
+Science|5
+History|4
+Geography|4
+English class|4
+Spelling|4
+Art class|5
+Music class|4
+Gym class|5
+Biology|5
+Chemistry|5
+Physics|5
+Algebra|5
+Geometry|5
+Spanish class|4
+French class|4
+Reading|4
+Teacher's pet|5
+Classroom|5
+Cafeteria|5
+School bus|5
+Locker|5
+Hall pass|5
+Principal's office|5
+Detention|5
+Report card|5
+Field trip|5
+Spelling bee|5
+Science fair|5
+Book report|5
+Pop quiz|5
+Final exam|5
+Test|4
+Quiz|4
+Midterm|4
+Grade|4
+Straight A's|4
+Honor roll|4
+Pass or fail|3
+Diploma|5
+Graduation cap|4
+Yearbook|5
+Prom|5
+Homecoming|5
+School dance|4
+Class clown|5
+Class president|4
+Valedictorian|4
+Freshman|5
+Senior year|4
+Kindergarten|5
+Preschool|4
+Elementary school|5
+Middle school|5
+High school|5
+College|5
+University|4
+Boarding school|4
+Summer school|5
+Snow day|4
+Show and tell|5
+Story time|4
+Nap time|4
+Lunch box|5
+Lunch money|4
+School uniform|5
+Dress code|4
+School bell|4
+Fire drill|5
+Attendance|4
+Roll call|4
+Substitute teacher|5
+Parent-teacher conference|4
+Student|5
+Classmate|5
+Pen pal|4
+Study hall|4
+Group project|5
+Essay|5
+Textbook|5
+Notebook|5
+Binder|5
+Folder|4
+Eraser|5
+Pencil sharpener|5
+Crayon|5
+Marker|4
+Highlighter|5
+Ruler|5
+Protractor|4
+Glue stick|5
+Chalk|5
+Chalkboard|5
+Whiteboard|5
+Dry-erase marker|4
+Globe|5
+Pencil case|5
+Flash cards|5
+Dictionary|5
+Times tables|5
+Multiplication|5
+Long division|4
+Fractions|5
+Alphabet|5
+Cursive|5
+Handwriting|4
+Gold star|5
+Sticker chart|3
+Cheat sheet|5
+Copying homework|3
+Raise your hand|4
+Recess bell|2
+Lunch lady|5
+Hallway monitor|3
+Sharpie|4
+Dodgeball|4
+Library card|5
+Tutor|5
+Scholarship|5
+Student loan|4
+Dorm room|5
+Roommate|4
+Sorority|4
+Fraternity|4
+# Cuts
+# cut: Snow day|4 (in weather)
+# cut: Test|4 (near-duplicate of Quiz/Final exam)
+# cut: Quiz|4 (near-duplicate of Pop quiz)
+# cut: Grade|4 (ambiguous)
+# cut: Pass or fail|3 (weak)
+# cut: Sticker chart|3 (weak)
+# cut: Copying homework|3 (made-up compound)
+# cut: Raise your hand|4 (action; belongs in Phrases & Actions)
+# cut: Recess bell|2 (made-up compound)
+# cut: Hallway monitor|3 (term is "hall monitor"; hesitation)
+# cut: Sharpie|4 (brand; near-duplicate of Marker)
+# cut: Dodgeball|4 (sport/game; overlap risk)
+# cut: Dry-erase marker|4 (near-duplicate of Marker)
+# cut: Roommate|4 (not school-specific)
+# cut: University|4 (near-duplicate of College)
+# cut: Graduation cap|4 (Graduation is in holidays; keep one)
+# cut: Midterm|4 (also elections; hesitation)
+# cut: Globe|5 (geography/household overlap risk)
+# cut: Dictionary|5 (book; overlap risk with books)
+# cut: Calculus|3 (hesitation for many)
+# cut: Trigonometry|3 (hesitation)
+# cut: Syllabus|3 (hesitation)
+# cut: Thesaurus|3 (hesitation)

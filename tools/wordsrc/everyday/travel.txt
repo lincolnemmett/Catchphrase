@@ -1,0 +1,138 @@
+# Everyday Life — Travel
+# Vehicles (Airplane, Train, Taxi...) are in Things/vehicles; stations are in places.
+Passport|5
+Suitcase|5
+Airport|5
+Hotel|5
+Road trip|5
+Cruise|5
+Jet lag|5
+Souvenir|5
+Vacation|5
+Luggage|5
+Backpacking|5
+Boarding pass|5
+Plane ticket|5
+Carry-on|5
+Baggage claim|5
+Security check|4
+Customs|4
+Visa|4
+Layover|5
+Window seat|5
+Aisle seat|4
+First class|5
+Economy class|4
+Frequent flyer|4
+Delayed flight|4
+Flight|5
+Takeoff|5
+Landing|4
+Runway|5
+Terminal|4
+Gate|4
+Seat belt|5
+Motel|5
+Hostel|4
+Bed and breakfast|5
+Resort|5
+Room service|5
+Check-in|5
+Checkout|4
+Room key|4
+Do not disturb|5
+Front desk|4
+Tourist|5
+Sightseeing|5
+Tour bus|5
+Guidebook|4
+Map|5
+Compass|5
+GPS|5
+Postcard|5
+Camera|4
+Selfie stick|5
+Sunscreen|5
+Sunglasses|4
+Beach towel|5
+Camping|5
+Campfire|5
+Sleeping bag|5
+Tent|5
+RV|5
+Hitchhiking|5
+Gas station snacks|2
+Rest stop|5
+Toll booth|5
+Traffic jam|5
+Speed bump|4
+Detour|5
+Car rental|5
+Road map|4
+Are we there yet|5
+Honeymoon|5
+Spring break|5
+Staycation|4
+Weekend getaway|4
+Safari|5
+Theme park|4
+All-inclusive|4
+Time zone|5
+Currency exchange|4
+Foreign language|4
+Travel agent|4
+Itinerary|4
+Packing list|4
+Overpacking|4
+Lost luggage|5
+Duty free|4
+Airline food|4
+Neck pillow|5
+Ear plugs|4
+Overhead bin|5
+Pilot announcement|2
+Turbulence|5
+Emergency exit|4
+Life jacket|5
+Cruise ship|4
+Cabin crew|4
+Ferry ride|3
+Train ride|4
+Road sign|4
+Bucket list|5
+World tour|4
+Expedition|4
+Pilgrimage|3
+Backpack|4
+Fanny pack|5
+Travel pillow|4
+Hiking|5
+Trail map|3
+Ski trip|4
+Bon voyage|5
+Homesick|4
+Jet ski|4
+Snorkeling|5
+Scuba diving|5
+Sunburn|5
+Tan lines|4
+Hammock|5
+# Cuts
+# cut: Gas station snacks|2 (made-up compound)
+# cut: Pilot announcement|2 (made-up compound)
+# cut: Ferry ride|3 (made-up compound)
+# cut: Trail map|3 (weak)
+# cut: Pilgrimage|3 (religious connotation, hesitation)
+# cut: Backpack|4 (school supply; belongs in school)
+# cut: Homesick|4 (emotion; belongs in Phrases & Actions)
+# cut: Camera|4 (gadget; belongs in Things)
+# cut: Sunglasses|4 (clothing accessory; belongs in Things)
+# cut: Cruise ship|4 (vehicle; Cruise kept)
+# cut: Travel pillow|4 (near-duplicate of Neck pillow)
+# cut: Theme park|4 (near-duplicate of Amusement park in places)
+# cut: Hiking|5 (sport/activity; in sports)
+# cut: Jet ski|4 (vehicle)
+# cut: Compass|5 (tool/technology overlap risk)
+# cut: Road map|4 (near-duplicate of Map)
+# cut: Sojourn|1 (obscure)
+# cut: Wanderlust|3 (hesitation)

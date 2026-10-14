@@ -1,0 +1,221 @@
+# Things / household: furniture, kitchenware, appliances, bathroom & cleaning, everyday objects
+# Furniture
+Couch|5
+Chair|5
+Table|5
+Bed|5
+Bunk bed|5
+Crib|5
+Rocking chair|5
+High chair|4
+Recliner|4
+Bean bag chair|5
+Stool|4
+Nightstand|4
+Dresser|4
+Wardrobe|4
+Bookshelf|5
+Coffee table|5
+Cabinet|4
+Drawer|4
+Futon|4
+Hammock|5
+Coat rack|4
+# cut: Ottoman|3 (many hesitate)
+# cut: Sofa|5 (near-duplicate of Couch)
+# cut: Credenza|1 (obscure)
+# cut: Armoire|2 (niche)
+# Soft furnishings & decor
+Pillow|5
+Pillowcase|4
+Blanket|5
+Electric blanket|4
+Rug|5
+Doormat|4
+Curtains|5
+Blinds|4
+Lamp|5
+Lampshade|4
+Chandelier|5
+Mirror|5
+Picture frame|5
+Vase|5
+Candle|5
+Lava lamp|5
+Disco ball|4
+Snow globe|5
+Garden gnome|5
+Wind chime|4
+Flower pot|4
+Fireplace|5
+Ceiling fan|5
+Alarm clock|5
+Hourglass|4
+Calendar|4
+# cut: Valance|1 (obscure)
+# cut: Sconce|2 (niche)
+# cut: Throw pillow|3 (near-duplicate of Pillow)
+# Appliances
+Refrigerator|5
+Microwave|5
+Toaster|5
+Oven|5
+Stove|5
+Dishwasher|5
+Washing machine|5
+Clothes dryer|4
+Blender|5
+Coffee maker|5
+Kettle|5
+Air fryer|5
+Slow cooker|4
+Rice cooker|4
+Waffle iron|4
+Pressure cooker|4
+Vacuum cleaner|5
+Iron|4
+Hair dryer|5
+Curling iron|4
+Air conditioner|5
+Space heater|4
+Thermostat|4
+Smoke detector|5
+Fire extinguisher|5
+Doorbell|5
+# cut: Fridge|5 (duplicate of Refrigerator)
+# cut: Dehumidifier|3 (many hesitate)
+# cut: Toaster oven|4 (near-duplicate of Toaster)
+# cut: Food processor|3 (hesitation)
+# Kitchenware
+Frying pan|5
+Saucepan|4
+Wok|4
+Spatula|5
+Whisk|5
+Ladle|4
+Tongs|4
+Rolling pin|5
+Cutting board|5
+Colander|4
+Grater|4
+Potato peeler|4
+Can opener|5
+Bottle opener|4
+Corkscrew|4
+Pizza cutter|5
+Ice cream scoop|5
+Measuring cup|4
+Mixing bowl|4
+Funnel|4
+Oven mitt|5
+Teapot|5
+Teacup|4
+Mug|5
+Plate|5
+Bowl|5
+Fork|5
+Spoon|5
+Knife|5
+Chopsticks|5
+Wine glass|5
+Straw|4
+Napkin|5
+Tablecloth|4
+Placemat|4
+Salt shaker|5
+Pepper grinder|4
+Ice cube tray|4
+Cookie jar|5
+Thermos|4
+Tupperware|4
+Aluminum foil|5
+Plastic wrap|4
+Paper towel|5
+Kitchen sink|5
+Dish rack|4
+# cut: Mandoline|1 (obscure)
+# cut: Ramekin|2 (niche)
+# cut: Baster|3 (hesitation)
+# cut: Muffin tin|3 (hesitation)
+# cut: Baking sheet|3 (hesitation)
+# cut: Strainer|4 (near-duplicate of Colander)
+# cut: Saucer|3 (hesitation without teacup context)
+# cut: Gravy boat|3 (many hesitate)
+# Bathroom & personal care
+Toothbrush|5
+Toothpaste|5
+Dental floss|5
+Towel|5
+Soap|5
+Shampoo|5
+Bathtub|5
+Shower curtain|5
+Toilet|5
+Toilet paper|5
+Toilet brush|4
+Plunger|5
+Bath mat|4
+Bubble bath|4
+Bath bomb|4
+Loofah|4
+Shower cap|4
+Hairbrush|5
+Comb|5
+Razor|5
+Nail clippers|4
+Tweezers|4
+Q-tip|5
+Tissue box|4
+Bathroom scale|4
+Medicine cabinet|4
+Band-Aid|5
+First aid kit|4
+# cut: Bidet|3 (many hesitate)
+# cut: Pumice stone|3 (hesitation)
+# zipf-reviewed: Loofah kept (common bathroom item, easy to clue)
+# Cleaning & laundry
+Broom|5
+Mop|5
+Bucket|5
+Dustpan|4
+Sponge|5
+Feather duster|5
+Rubber gloves|4
+Laundry basket|5
+Laundry detergent|4
+Dish soap|4
+Clothespin|4
+Ironing board|5
+Coat hanger|5
+Lint roller|4
+Trash can|5
+Fly swatter|5
+Mousetrap|5
+# cut: Squeegee|3 (hesitation)
+# cut: Hamper|4 (near-duplicate of Laundry basket)
+# Everyday objects
+Umbrella|5
+Keychain|4
+Doorknob|5
+Light bulb|5
+Light switch|4
+Power outlet|4
+Night light|4
+Matches|4
+Lighter|4
+Piggy bank|5
+Cardboard box|5
+Bubble wrap|5
+Mailbox|5
+Sleeping bag|5
+Air mattress|4
+Hot water bottle|4
+Pacifier|5
+Diaper|5
+Baby bottle|4
+Needle and thread|4
+Safety pin|4
+Sewing machine|4
+# cut: Ashtray|3 (not family-focused, dated)
+# cut: Thimble|3 (many hesitate)
+# cut: Doily|2 (niche)

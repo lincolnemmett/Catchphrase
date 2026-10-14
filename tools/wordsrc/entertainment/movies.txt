@@ -1,0 +1,157 @@
+# Entertainment / Movies
+# Franchise rule: characters-led franchises (Batman, Spider-Man, Shrek-adjacent chars,
+# Harry Potter, Lord of the Rings, James Bond, Peter Pan, fairy tales) live in other subtopics.
+Titanic|5
+Star Wars|5
+Jurassic Park|5
+The Lion King|5
+Frozen|5
+Toy Story|5
+Finding Nemo|5
+Home Alone|5
+The Wizard of Oz|5
+Back to the Future|5
+Ghostbusters|5
+Shrek|5
+The Godfather|5
+Forrest Gump|5
+The Matrix|5
+Top Gun|5
+Rocky|5
+Grease|5
+Mary Poppins|5
+The Sound of Music|5
+Beauty and the Beast|5
+The Little Mermaid|5
+Aladdin|5
+Mulan|5
+Moana|5
+Bambi|5
+Dumbo|5
+The Jungle Book|5
+Lilo and Stitch|5
+Monsters Inc|5
+The Incredibles|5
+WALL-E|5
+Up|4
+Inside Out|5
+Coco|4
+Encanto|4
+Zootopia|4
+Pocahontas|4
+Lady and the Tramp|4
+Fantasia|4
+Ice Age|5
+Kung Fu Panda|5
+Happy Feet|4
+Chicken Run|4
+Stuart Little|4
+Babe|4
+Mrs Doubtfire|5
+Jumanji|5
+Gremlins|4
+The Goonies|4
+Hocus Pocus|4
+Men in Black|5
+The Karate Kid|5
+Mission Impossible|5
+Fast and Furious|5
+Indiana Jones|5
+Pirates of the Caribbean|5
+The Terminator|5
+Die Hard|5
+Rambo|4
+Lethal Weapon|4
+Gladiator|5
+Braveheart|4
+Avatar|5
+Inception|4
+Interstellar|4
+Oppenheimer|4
+The Avengers|4
+Planet of the Apes|4
+King Kong|5
+Psycho|4
+The Shining|4
+Edward Scissorhands|4
+Beetlejuice|4
+The Nightmare Before Christmas|4
+Ghostbusters II|1
+Dirty Dancing|5
+Footloose|4
+Saturday Night Fever|4
+The Greatest Showman|4
+La La Land|4
+West Side Story|4
+Annie|4
+Wicked|4
+Gone with the Wind|4
+Casablanca|4
+It's a Wonderful Life|4
+Elf|5
+The Polar Express|4
+Love Actually|4
+Rain Man|4
+Jerry Maguire|4
+Sleepless in Seattle|4
+When Harry Met Sally|4
+The Notebook|4
+Pretty in Pink|1
+Mean Girls|5
+Legally Blonde|4
+Freaky Friday|4
+The Parent Trap|4
+The Princess Diaries|4
+High School Musical|5
+Space Jam|4
+The Mask|4
+Ace Ventura|4
+Dumb and Dumber|4
+The Truman Show|4
+Night at the Museum|4
+Ocean's Eleven|4
+Rush Hour|4
+Catch Me If You Can|4
+Cast Away|4
+Sister Act|4
+The Sixth Sense|4
+Jaws|5
+# cut: Ghostbusters II|1 (sequel near-duplicate)
+# cut: Pretty in Pink|1 (placeholder, too niche)
+# cut: Cars|5 (collides with Car in Things/vehicles)
+# cut: Alien|5 (collides with Alien in Nature/space)
+# cut: Madagascar|5 (collides with country in geography)
+# cut: Ratatouille|5 (collides with dish in Food)
+# cut: Tangled|5 (Rapunzel franchise kept in books)
+# cut: Barbie|5 (collides with toy in Things/toys)
+# cut: Halloween|4 (collides with holiday)
+# cut: Groundhog Day|4 (collides with holiday)
+# cut: Independence Day|4 (collides with holiday)
+# cut: The Bodyguard|4 (collides with job Bodyguard)
+# cut: Mamma Mia|4 (ABBA franchise kept in musicians)
+# cut: Despicable Me|5 (Minions kept in characters)
+# cut: Transformers|4 (risk of toy collision)
+# cut: The Dark Knight|4 (Batman franchise kept in characters)
+# cut: Who Framed Roger Rabbit|4 (Roger Rabbit kept in characters)
+# cut: Charlie and the Chocolate Factory|5 (Willy Wonka kept in characters)
+# cut: Brave|4 (collides with emotion/adjective)
+# cut: Hairspray|3 (collides with household item, less known)
+# cut: Pulp Fiction|4 (violent; family-friendly bar)
+# cut: Scarface|4 (violent)
+# cut: The Hangover|4 (adult themes)
+# cut: Speed|3 (ambiguous everyday word)
+# cut: Big|3 (ambiguous everyday word)
+# cut: Hook|3 (ambiguous; tool)
+# cut: Clueless|3 (ambiguous adjective)
+# cut: Scream|3 (ambiguous; verb)
+# cut: Spirited Away|3 (not cross-generational)
+# cut: Coraline|3 (niche)
+# cut: Apollo 13|4 (digits)
+# cut: 101 Dalmatians|5 (digits)
+# cut: E.T.|5 (periods; can't be written cleanly)
+# cut: The Breakfast Club|3 (generational)
+# cut: Ferris Bueller's Day Off|3 (generational)
+# cut: Happy Gilmore|3 (niche)
+# cut: John Wick|3 (niche to action fans)
+# cut: Dune|3 (book/film split, less known)
+# cut: Big Hero Six|3 (digits in real title)

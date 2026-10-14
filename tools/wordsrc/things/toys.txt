@@ -1,0 +1,139 @@
+# Things / toys (no board/card games, no consoles, no sports equipment, no franchise characters)
+# Classic toys
+Teddy bear|5
+Stuffed animal|5
+Sock monkey|4
+Doll|5
+Dollhouse|5
+Rag doll|4
+Paper doll|4
+Nesting dolls|4
+Troll doll|4
+American Girl doll|4
+Cabbage Patch Kids|4
+Polly Pocket|4
+Action figure|5
+Toy soldiers|5
+Puppet|5
+Marionette|4
+Yo-yo|5
+Slinky|5
+Kite|5
+Jack-in-the-box|5
+Rocking horse|5
+Hobby horse|4
+Spinning top|5
+Kaleidoscope|5
+Music box|5
+Pinwheel|5
+Marbles|5
+Wind-up toy|4
+Baby rattle|4
+Shape sorter|4
+Toy box|4
+Tea set|4
+Play kitchen|4
+Toy piano|4
+Kazoo|5
+Toy robot|4
+Toy boat|4
+# cut: Barbie|5 (franchise belongs to Entertainment)
+# cut: Mr Potato Head|5 (Toy Story character; Entertainment)
+# cut: Transformers|5 (franchise; Entertainment)
+# cut: Baby doll|4 (near-duplicate of Doll)
+# cut: Hand puppet|4 (near-duplicate of Puppet)
+# cut: Army men|4 (near-duplicate of Toy soldiers)
+# cut: Matryoshka|2 (use Nesting dolls)
+# cut: Stacking rings|3 (hesitation)
+# cut: Whirligig|2 (niche)
+# Building & creative
+Lego|5
+Building blocks|5
+Lincoln Logs|4
+Jigsaw puzzle|5
+Rubik's Cube|5
+Play-Doh|5
+Etch A Sketch|5
+Silly Putty|5
+Slime|5
+Kinetic sand|4
+Coloring book|5
+Finger paint|4
+Stickers|5
+Chemistry set|4
+Ant farm|4
+Chia Pet|4
+Magic kit|4
+Model airplane|4
+Paper airplane|5
+Train set|5
+# cut: Tinkertoy|3 (hesitation)
+# cut: Erector set|3 (hesitation)
+# cut: Spirograph|3 (hesitation)
+# cut: Lite-Brite|3 (hesitation)
+# cut: View-Master|3 (hesitation)
+# cut: Magna Doodle|3 (hesitation)
+# cut: Sea-Monkeys|3 (hesitation)
+# Brand-name & fad toys
+Hot Wheels|5
+Nerf gun|5
+Tonka truck|4
+Furby|4
+Tamagotchi|4
+Beanie Babies|4
+Easy-Bake Oven|4
+Magic Eight Ball|4
+Bop It|4
+Bobblehead|5
+Squishmallow|4
+Funko Pop|4
+Fidget spinner|5
+Pet rock|4
+Remote-control car|5
+# cut: Matchbox car|4 (near-duplicate of Hot Wheels)
+# cut: Beyblade|3 (hesitation)
+# cut: Bratz|3 (hesitation)
+# cut: Stretch Armstrong|3 (hesitation)
+# cut: Pop It|3 (short-lived trend)
+# Outdoor & active play
+Hula hoop|5
+Jump rope|5
+Pogo stick|5
+Boomerang|5
+Slingshot|5
+Stilts|4
+Trampoline|5
+Bounce house|5
+Ball pit|4
+Paddle ball|4
+Beach ball|5
+Bouncy ball|5
+Water gun|5
+Water balloon|5
+Pool noodle|5
+Pool float|4
+Water wings|4
+Kiddie pool|4
+Bubble wand|4
+Sidewalk chalk|4
+Glow stick|5
+# cut: Frisbee|5 (sports equipment boundary)
+# cut: Squirt gun|5 (near-duplicate of Water gun)
+# cut: Super Soaker|4 (near-duplicate of Water gun)
+# cut: Cap gun|3 (dated)
+# Silly & novelty
+Whoopee cushion|5
+Silly String|5
+Rubber duck|5
+Rubber chicken|4
+Rubber snake|4
+Sticky hand|4
+Finger trap|4
+Stress ball|4
+Slap bracelet|4
+Magic wand|4
+Fairy wings|4
+Balloon animal|4
+# cut: Joy buzzer|3 (hesitation)
+# cut: Stink bomb|3 (hesitation)
+# cut: Cootie catcher|3 (hesitation)

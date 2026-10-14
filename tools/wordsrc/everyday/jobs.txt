@@ -1,0 +1,154 @@
+# Everyday Life — Jobs (occupations)
+# Astronaut is in Nature & Science/space; not listed here.
+Firefighter|5
+Police officer|5
+Doctor|5
+Nurse|5
+Teacher|5
+Dentist|5
+Chef|5
+Pilot|5
+Farmer|5
+Mail carrier|4
+Mechanic|5
+Plumber|5
+Electrician|5
+Carpenter|5
+Lawyer|5
+Judge|5
+Accountant|4
+Banker|4
+Cashier|5
+Waiter|5
+Bartender|5
+Barista|5
+Baker|5
+Butcher|5
+Lifeguard|5
+Librarian|5
+Scientist|5
+Veterinarian|5
+Pharmacist|5
+Surgeon|5
+Paramedic|5
+Architect|5
+Engineer|5
+Photographer|5
+Artist|5
+Painter|4
+Musician|5
+Singer|5
+Dancer|5
+Actor|5
+Comedian|5
+Magician|5
+Clown|5
+Juggler|4
+Author|5
+Journalist|5
+News anchor|5
+Weatherman|5
+Taxi driver|5
+Bus driver|5
+Truck driver|5
+Flight attendant|5
+Tour guide|5
+Soldier|5
+Sailor|5
+Detective|5
+Security guard|5
+Lumberjack|5
+Fisherman|5
+Construction worker|5
+Janitor|5
+Garbage collector|5
+Babysitter|5
+Nanny|4
+Hairdresser|5
+Barber|5
+Tailor|4
+Florist|5
+Gardener|5
+Principal|5
+Coach|5
+Referee|5
+Umpire|4
+Personal trainer|5
+Zookeeper|5
+Cowboy|5
+Delivery driver|5
+Dog walker|5
+Secretary|5
+Receptionist|5
+Real estate agent|5
+Salesperson|4
+Model|5
+Fashion designer|5
+Makeup artist|5
+DJ|5
+Chauffeur|4
+Butler|5
+Housekeeper|4
+Professor|5
+Psychologist|4
+Therapist|5
+Optometrist|4
+Plastic surgeon|4
+Midwife|4
+Spy|5
+Bodyguard|5
+Stuntman|5
+Film director|4
+Translator|4
+Computer programmer|5
+Web designer|4
+Video game designer|4
+Dog groomer|4
+Locksmith|4
+Window washer|4
+Mayor|5
+Ice cream man|4
+Ski instructor|4
+Crossing guard|4
+Pizza chef|4
+# cut: Garbage truck driver|3 (below 4)
+# cut: Movie star|5 (near-duplicate of Actor)
+Rock star|5
+Ballerina|5
+Personal assistant|4
+Telemarketer|4
+Bank teller|4
+# cut: Cab driver|4 (near-duplicate of Taxi driver)
+# cut: Mail sorter|2 (below 4)
+# cut: Nurse practitioner|3 (below 4)
+Tattoo artist|5
+Wedding planner|4
+Pet sitter|4
+Sheriff|5
+# cut: Firefighter chief|2 (below 4)
+Park ranger|5
+Prison guard|4
+# cut: Carpet cleaner|3 (below 4)
+# Cuts
+# cut: Mailman|4 (near-duplicate of Mail carrier)
+# cut: Waitress|4 (near-duplicate of Waiter)
+# cut: Reporter|4 (near-duplicate of Journalist)
+# cut: News reporter|4 (near-duplicate of Journalist)
+# cut: Pizza delivery|4 (not a job title; Delivery driver kept)
+# cut: Maid|4 (near-duplicate of Housekeeper)
+# cut: Store clerk|4 (near-duplicate of Cashier/Salesperson)
+# cut: President|4 (political title rather than an everyday job)
+# cut: Plumber's helper|3 (not a standard job title)
+# cut: Lawyer's assistant|2 (invented; paralegal is the real term)
+# cut: Paralegal|3 (many would hesitate)
+# cut: Cartographer|1 (obscure)
+# cut: Actuary|2 (niche)
+# cut: Sommelier|3 (hesitation)
+# cut: Stenographer|2 (niche)
+# cut: Blacksmith|3 (historical)
+# cut: Archaeologist|3 (hard to clue fast; borderline)
+# cut: Taxidermist|2 (niche)
+# cut: Cobbler|3 (dated; also a dessert)
+# cut: Chimney sweep|3 (dated)
+# cut: Auctioneer|3 (hesitation)
+# cut: Undertaker|3 (somber)

@@ -1,0 +1,116 @@
+# Things / gadgets: physical electronic devices (no consoles; appliances are in household)
+# Phones & computers
+Smartphone|5
+Flip phone|5
+Telephone|5
+Cordless phone|4
+Payphone|4
+Pager|4
+Walkie-talkie|5
+Computer|5
+Laptop|5
+iPad|5
+Kindle|4
+Keyboard|5
+Computer mouse|5
+Monitor|4
+Printer|5
+Scanner|4
+Copy machine|4
+Fax machine|4
+Webcam|5
+Router|4
+Modem|4
+USB drive|4
+Hard drive|4
+Memory card|4
+Phone charger|5
+Power bank|4
+Power strip|4
+Phone case|4
+Stylus|4
+HDMI cable|4
+# cut: iPhone|5 (near-duplicate of Smartphone)
+# cut: Tablet|4 (near-duplicate of iPad, ambiguous)
+# cut: Desktop computer|4 (near-duplicate of Computer)
+# cut: BlackBerry|4 (conflicts with fruit)
+# cut: PalmPilot|2 (dated, niche)
+# cut: Ethernet cable|3 (hesitation)
+# cut: Screen protector|3 (hesitation)
+# cut: Surge protector|3 (hesitation)
+# Audio & video
+Headphones|5
+Earbuds|5
+Headset|4
+Microphone|5
+Bluetooth speaker|4
+Smart speaker|4
+Television|5
+Remote control|5
+Projector|4
+Record player|5
+Walkman|5
+Boombox|5
+iPod|5
+CD player|5
+DVD player|5
+VCR|4
+Cassette tape|5
+Radio|5
+Jukebox|5
+Karaoke machine|5
+Tape recorder|4
+Megaphone|5
+Satellite dish|4
+Antenna|4
+Cable box|4
+# cut: TV|5 (duplicate of Television)
+# cut: Turntable|4 (near-duplicate of Record player)
+# cut: Subwoofer|3 (hesitation)
+# cut: Soundbar|3 (hesitation)
+# cut: Roku|3 (brand, hesitation)
+# cut: Dictaphone|2 (dated)
+# Cameras
+Camera|5
+Polaroid camera|5
+Disposable camera|4
+Camcorder|4
+GoPro|4
+Security camera|5
+Dash cam|4
+Tripod|4
+Selfie stick|5
+Ring light|4
+Drone|5
+# cut: Green screen|3 (hesitation)
+# Wearables & personal
+Smartwatch|5
+Fitness tracker|4
+VR headset|4
+Hearing aid|4
+Electric toothbrush|4
+Electric razor|4
+Night-vision goggles|4
+Laser pointer|5
+Stopwatch|4
+# cut: Smart glasses|3 (hesitation)
+# cut: Fitbit|4 (near-duplicate of Fitness tracker)
+# cut: Apple Watch|5 (near-duplicate of Smartwatch)
+# Other devices
+Metal detector|5
+Lie detector|4
+Baby monitor|4
+Video doorbell|4
+Garage door opener|4
+Key fob|4
+Roomba|5
+Bug zapper|4
+Vending machine|5
+Cash register|5
+Massage chair|4
+Typewriter|4
+# cut: Breathalyzer|3 (hesitation; also not family-focused)
+# cut: Label maker|3 (hesitation)
+# cut: Digital photo frame|3 (hesitation)
+# cut: CB radio|3 (dated)
+# cut: GPS|5 (closer to technology concept)

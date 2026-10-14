@@ -1,0 +1,1567 @@
+{
+"id":"phrases",
+"name":"Phrases & Actions",
+"subtopics":{
+"idioms":"Idioms",
+"sayings":"Common Sayings",
+"verbs":"Actions",
+"emotions":"Emotions"
+},
+"words":[
+{
+"text":"Break a leg",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Piece of cake",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Spill the beans",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the road",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the sack",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the hay",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Cold feet",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Under the weather",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Raining cats and dogs",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cat got your tongue",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Bite the bullet",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Break the ice",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Couch potato",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the jackpot",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the books",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Cry wolf",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Cry over spilled milk",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Beat around the bush",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Best of both worlds",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Blessing in disguise",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Call it a day",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cut corners",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cutting it close",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Easy as pie",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Get out of hand",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Get the ball rolling",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Give it a shot",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Go the extra mile",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hang in there",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"In hot water",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"In the same boat",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Jump the gun",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Keep your chin up",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"The last straw",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Blow off steam",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Miss the boat",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"No-brainer",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"On the ball",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"On cloud nine",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"On thin ice",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Out of the blue",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pulling my leg",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Rain check",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Sit tight",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Speak of the devil",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Steal the show",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Through thick and thin",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Up in the air",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Wild goose chase",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Add insult to injury",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Back to square one",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Bite your tongue",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Black sheep",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Brownie points",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Burn the midnight oil",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Burning bridges",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Bury the hatchet",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Chip on your shoulder",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Cool as a cucumber",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cut to the chase",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Devil's advocate",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Down to earth",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Draw the line",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Drop the ball",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Elephant in the room",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Face the music",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Feeling blue",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Fish out of water",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Fit as a fiddle",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Get your act together",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Cold shoulder",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Go bananas",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Go with the flow",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Green thumb",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Green with envy",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hands down",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Head over heels",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Heart of gold",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hold your horses",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Icing on the cake",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"In a nutshell",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Jump on the bandwagon",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Kick the bucket",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Learn the ropes",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Let sleeping dogs lie",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Let your hair down",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Lose your marbles",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Make ends meet",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"My lips are sealed",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Nest egg",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Night owl",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Early bird",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Off the hook",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"On the fence",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"On the same page",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Out of the woods",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Over the moon",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Over the hill",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Paint the town red",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pie in the sky",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Play it by ear",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pull yourself together",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Pull strings",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Rock the boat",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Run out of steam",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Saved by the bell",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"See eye to eye",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Sleep on it",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Smell a rat",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Spill the tea",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Stab in the back",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Stick your neck out",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Tie the knot",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Tip of the iceberg",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Tongue-tied",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Top dog",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Turn a blind eye",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Peas in a pod",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Walk on eggshells",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Water under the bridge",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Wet blanket",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"When pigs fly",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"The whole nine yards",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Zip your lip",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Butterflies in my stomach",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cash cow",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Catch some Z's",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Chicken out",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Clean slate",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Close call",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cold turkey",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Crocodile tears",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Dark horse",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Eat your words",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Eat humble pie",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Egg on your face",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Silver lining",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Fair and square",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Food for thought",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"The grass is greener",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the ground running",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"In the doghouse",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Nick of time",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Jack of all trades",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Fingers crossed",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Knock on wood",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Lend a hand",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Lion's share",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Long shot",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Monkey business",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Needle in a haystack",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Odd one out",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Think outside the box",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pain in the neck",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Penny for your thoughts",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pig out",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Play with fire",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Practice what you preach",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Put your foot down",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Read between the lines",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Red tape",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Ring a bell",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Rule of thumb",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Sitting duck",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Sleep like a log",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Spitting image",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Start from scratch",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Stir the pot",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Sweet tooth",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Grain of salt",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Throw in the towel",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Tickled pink",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Under the radar",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Wake-up call",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Weather the storm",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Wing it",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Bend over backwards",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Big cheese",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Bite the dust",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Bottom line",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Break the bank",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Burst your bubble",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Butter up",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"By the book",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Can of worms",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Change of heart",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Clear the air",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Come rain or shine",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Cry me a river",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Dead end",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Do or die",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Down in the dumps",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Dressed to the nines",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Eager beaver",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Fat chance",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Fly off the handle",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Full of hot air",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Get off my back",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Get the picture",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Go for broke",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Have a ball",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Head in the clouds",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Jump ship",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Keep it under wraps",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Kick the habit",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Leave no stone unturned",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Life of the party",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Mind your own business",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Mum's the word",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"On the dot",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"On the house",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Out of this world",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Over my dead body",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pipe dream",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Plenty of fish",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Push your buttons",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Quiet as a mouse",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Rain on my parade",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Rock bottom",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Second nature",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Shake a leg",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Sharp as a tack",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Shoot the breeze",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Skeleton in the closet",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Small talk",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Spread like wildfire",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Stand your ground",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Straight face",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Take a hike",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Take the cake",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Talk is cheap",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Tall tale",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Loose ends",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Up for grabs",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Upper hand",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Walk in the park",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"White lie",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Wolf in sheep's clothing",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"All ears",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"All thumbs",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Back to basics",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Bad apple",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Ballpark figure",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Bells and whistles",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Bring home the bacon",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Busy as a bee",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Call the shots",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cheap shot",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Clean as a whistle",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Drag your feet",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Get a grip",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Hit the spot",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"In the bag",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"In the dark",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Keep your cool",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Mad as a hatter",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Make a scene",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"No strings attached",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Off the charts",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Out on a limb",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Over the top",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Party pooper",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pecking order",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Pick your brain",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Point of no return",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pull the plug",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Raise the bar",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Rat race",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Caught red-handed",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Ride shotgun",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"It's not rocket science",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Runs in the family",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Shot in the dark",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Sick as a dog",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Sink or swim",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Smart cookie",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Sour grapes",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Take a back seat",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Up the creek",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Ants in your pants",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Apple of my eye",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Backseat driver",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Bad hair day",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Behind the scenes",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Birds of a feather",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Bone to pick",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Calm before the storm",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Cherry on top",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Dime a dozen",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Dirt cheap",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Down the drain",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Eat like a bird",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Eat like a horse",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Flash in the pan",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Foot the bill",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Get your feet wet",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Glass half full",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Gut feeling",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Have a blast",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"In stitches",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Keep your eyes peeled",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Know-it-all",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"On pins and needles",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Out of the loop",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pass with flying colors",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Pull an all-nighter",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Running on empty",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Smooth sailing",
+"subtopic":"idioms",
+"rating":5
+},
+{
+"text":"Sweep under the rug",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Twist my arm",
+"subtopic":"idioms",
+"rating":4
+},
+{
+"text":"Wishy-washy",
+"subtopic":"idioms",
+"rating":4
+}
+]
+}
