@@ -44,11 +44,11 @@ Shot put|4
 Triathlon|4
 Skateboarding|5
 Rock climbing|5
-Hiking|5
+# cut: Hiking|5 (duplicate in everyday)
 Horse racing|5
 Ping pong|5
 Badminton|5
-Dodgeball|5
+# cut: Dodgeball|5 (duplicate in everyday)
 Kickball|4
 Darts|5
 Billiards|4
@@ -75,7 +75,7 @@ Strike|4
 Foul|4
 Overtime|5
 Halftime|5
-Referee whistle|2
+# cut: Referee whistle|2 (rating < 4)
 Hat trick|4
 Knockout|5
 Gold medal|5
@@ -101,7 +101,7 @@ Basketball hoop|5
 Shuttlecock|4
 Dumbbell|5
 Treadmill|5
-Jump rope|5
+# cut: Jump rope|5 (belongs in things)
 Push-up|5
 Sit-up|5
 Jumping jacks|5
@@ -109,17 +109,17 @@ Finish line|5
 Starting line|4
 Personal best|4
 Scoreboard|5
-Stopwatch|4
+# cut: Stopwatch|4 (belongs in things)
 Bench press|4
 Bullseye|4
 Cartwheel|5
 Handstand|4
 Backflip|5
-Pole dancing|1
+# cut: Pole dancing|1 (rating < 4)
 Quarterback|5
 Goalie|5
 Pitcher|4
-Catcher|3
+# cut: Catcher|3 (rating < 4)
 Water skiing|4
 # Cuts
 # cut: Referee whistle|2 (made-up compound)

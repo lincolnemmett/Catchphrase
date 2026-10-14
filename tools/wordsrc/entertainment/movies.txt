@@ -76,7 +76,7 @@ The Shining|4
 Edward Scissorhands|4
 Beetlejuice|4
 The Nightmare Before Christmas|4
-Ghostbusters II|1
+# cut: Ghostbusters II|1 (rating < 4)
 Dirty Dancing|5
 Footloose|4
 Saturday Night Fever|4
@@ -96,7 +96,7 @@ Jerry Maguire|4
 Sleepless in Seattle|4
 When Harry Met Sally|4
 The Notebook|4
-Pretty in Pink|1
+# cut: Pretty in Pink|1 (rating < 4)
 Mean Girls|5
 Legally Blonde|4
 Freaky Friday|4
@@ -111,7 +111,7 @@ The Truman Show|4
 Night at the Museum|4
 Ocean's Eleven|4
 Rush Hour|4
-Catch Me If You Can|4
+# cut: Catch Me If You Can|4 (5 words)
 Cast Away|4
 Sister Act|4
 The Sixth Sense|4

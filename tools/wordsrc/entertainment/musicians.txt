@@ -1,0 +1,91 @@
+The Beatles|5
+Elvis Presley|5
+Michael Jackson|5
+Madonna|5
+Queen|5
+The Rolling Stones|5
+Led Zeppelin|5
+Pink Floyd|5
+Bob Dylan|5
+David Bowie|5
+Prince|5
+Stevie Wonder|5
+Elton John|5
+Billy Joel|5
+Bruce Springsteen|5
+Paul McCartney|5
+John Lennon|5
+Freddie Mercury|5
+Bon Jovi|5
+Guns N' Roses|5
+Metallica|5
+AC DC|5
+Aerosmith|5
+Nirvana|5
+Pearl Jam|5
+Red Hot Chili Peppers|5
+Green Day|5
+Coldplay|5
+Radiohead|5
+Taylor Swift|5
+Beyoncé|5
+Rihanna|5
+Lady Gaga|5
+Katy Perry|5
+Britney Spears|5
+Ariana Grande|5
+Adele|5
+Billie Eilish|5
+Dua Lipa|5
+Ed Sheeran|5
+Bruno Mars|5
+Justin Bieber|5
+Harry Styles|5
+The Weeknd|5
+Drake|5
+Eminem|5
+Jay-Z|5
+Kanye West|5
+Snoop Dogg|5
+Tupac Shakur|5
+Kendrick Lamar|5
+Post Malone|5
+Whitney Houston|5
+Mariah Carey|5
+Celine Dion|5
+Aretha Franklin|5
+Tina Turner|5
+Diana Ross|5
+Dolly Parton|5
+Johnny Cash|5
+Willie Nelson|5
+Bob Marley|5
+Fleetwood Mac|5
+The Eagles|5
+ABBA|5
+Bee Gees|5
+Earth Wind and Fire|5
+The Beach Boys|5
+Simon and Garfunkel|5
+The Police|5
+Foo Fighters|5
+Linkin Park|5
+Backstreet Boys|5
+NSYNC|5
+Spice Girls|5
+Destiny's Child|5
+Imagine Dragons|5
+One Direction|5
+BTS|5
+Shakira|5
+Jennifer Lopez|5
+Ricky Martin|5
+Pitbull|5
+Usher|5
+Alicia Keys|5
+John Legend|5
+Frank Sinatra|5
+Louis Armstrong|5
+Ray Charles|5
+Miles Davis|4
+Nat King Cole|5

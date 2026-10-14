@@ -1,0 +1,94 @@
+Mickey Mouse|5
+Donald Duck|5
+Goofy|5
+Bugs Bunny|5
+Daffy Duck|5
+Porky Pig|5
+Tweety Bird|5
+Popeye|5
+Betty Boop|5
+Felix the Cat|4
+Spider-Man|5
+Batman|5
+Superman|5
+Wonder Woman|5
+Iron Man|5
+Captain America|5
+The Hulk|5
+Thor|5
+Black Widow|5
+Wolverine|5
+Deadpool|5
+The Joker|5
+Harley Quinn|5
+Catwoman|5
+Darth Vader|5
+Luke Skywalker|5
+Princess Leia|5
+Han Solo|5
+Yoda|5
+Chewbacca|5
+Harry Potter|5
+Hermione Granger|5
+Ron Weasley|5
+Dumbledore|5
+Voldemort|5
+Frodo Baggins|5
+Gandalf|5
+Legolas|5
+Gollum|5
+Sherlock Holmes|5
+James Bond|5
+# cut: Indiana Jones|5 (duplicate in entertainment)
+Jack Sparrow|5
+Katniss Everdeen|5
+Winnie the Pooh|5
+Tigger|5
+Piglet|5
+Eeyore|5
+Peter Pan|5
+Tinker Bell|5
+Captain Hook|5
+Cinderella|5
+Snow White|5
+Sleeping Beauty|5
+Rapunzel|5
+Ariel|5
+Belle|5
+# cut: Aladdin|5 (duplicate in entertainment)
+Genie|5
+# cut: Mulan|5 (duplicate in entertainment)
+# cut: Pocahontas|5 (duplicate in entertainment)
+Tarzan|5
+Hercules|5
+Elsa|5
+Olaf|5
+# cut: Shrek|5 (duplicate in entertainment)
+Fiona|5
+Puss in Boots|5
+Buzz Lightyear|5
+Woody|5
+Mr Potato Head|5
+Lightning McQueen|5
+Nemo|5
+Dory|5
+Mike Wazowski|5
+Sulley|5
+# cut: Wall-E|5 (duplicate in entertainment)
+Remy|5
+# cut: Kung Fu Panda|5 (duplicate in entertainment)
+Minions|5
+Gru|5
+Mario|5
+Luigi|5
+Bowser|5
+Princess Peach|5
+Sonic the Hedgehog|5
+Pikachu|5
+Charizard|5
+Garfield|5
+Snoopy|5
+Charlie Brown|5
+Shaggy|5
+Fred Flintstone|5
+Donkey Kong|5

@@ -1,0 +1,122 @@
+Sneezing|5
+Whispering|5
+Juggling|5
+Brushing teeth|5
+Tying shoes|5
+Shoveling snow|5
+Mowing the lawn|5
+Washing dishes|5
+Baking cookies|5
+Flipping pancakes|5
+Walking the dog|5
+Milking a cow|5
+Riding a roller coaster|5
+Singing in shower|5
+Playing guitar|5
+Playing piano|5
+Blowing bubbles|5
+Blowing out candles|5
+Popping balloons|5
+Wrapping a gift|5
+Opening a present|5
+Taking a selfie|5
+Texting a friend|5
+Hailing a cab|5
+Checking the time|5
+Looking in mirror|5
+Applying lipstick|5
+Ironing a shirt|5
+Folding laundry|5
+Vacuuming|5
+Sweeping the floor|5
+Mopping the kitchen|5
+Climbing a ladder|5
+Painting a fence|5
+Hammering a nail|5
+Sawing wood|5
+Knitting a scarf|5
+Sewing a button|5
+Reading a bedtime story|5
+Rocking a baby|5
+Pushing a stroller|5
+Flying a kite|5
+Building a sandcastle|5
+Roasting marshmallows|5
+Fishing|5
+Casting a fishing line|5
+Rowing a boat|5
+Paddling a canoe|5
+Swimming laps|5
+Diving into pool|5
+Doing a belly flop|5
+Surfing a wave|5
+Building a snowman|5
+Making snow angels|5
+Throwing snowballs|5
+Sledding down hill|5
+Skiing down mountain|5
+Riding a skateboard|5
+Riding a scooter|5
+Riding a bicycle|5
+Jumping on trampoline|5
+Skipping rope|5
+Doing jumping jacks|5
+Doing pushups|5
+Doing situps|5
+Lifting weights|5
+Running a marathon|5
+Stretching hamstrings|5
+Doing yoga pose|5
+Doing a backflip|5
+Doing a handstand|5
+Doing a cartwheel|5
+Hula hooping|5
+Walking on tightrope|5
+Jumping out of airplane|5
+Paragliding|5
+Bungee jumping|5
+Climbing a mountain|5
+Exploring a cave|5
+Hiking up trail|5
+Pitching a tent|5
+Starting a campfire|5
+Chopping firewood|5
+Hunting for treasure|5
+Digging for gold|5
+Planting a garden|5
+Watering flowers|5
+Picking apples|5
+Raking autumn leaves|5
+Climbing a tree|5
+Swinging on a swing|5
+Sliding down slide|5
+Playing hide and seek|5
+Playing peekaboo|5
+Tickling someone|5
+Giving a high five|5
+Fist bumping|5
+Shaking hands|5
+Giving a bear hug|5
+Waving goodbye|5
+Blowing a kiss|5
+Winking playfully|5
+Nodding in agreement|5
+Shrugging shoulders|5
+Scratching head|5
+Rubbing eyes|5
+Yawning loudly|5
+Stifling a laugh|5
+Giggling uncontrollably|5
+Bursting into tears|5
+Sniffling with a cold|5
+Blowing nose|5
+Gargling mouthwash|5
+Flossing teeth|5
+Combing hair|5
+Shaving beard|5
+Putting on coat|5
+Buttoning up shirt|5
+Zipping up jacket|5
+Tying necktie|5
+Polishing shoes|5
+Hanging up coat|5

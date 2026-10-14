@@ -1,0 +1,69 @@
+To Kill a Mockingbird|5
+The Great Gatsby|5
+Pride and Prejudice|5
+Nineteen Eighty-Four|5
+Animal Farm|5
+Lord of the Flies|5
+Of Mice and Men|5
+Brave New World|5
+The Grapes of Wrath|5
+Jane Eyre|5
+Wuthering Heights|5
+Frankenstein|5
+Dracula|5
+Moby-Dick|5
+The Odyssey|5
+The Iliad|5
+Romeo and Juliet|5
+Hamlet|5
+Macbeth|5
+A Midsummer Night's Dream|5
+The Scarlet Letter|5
+The Hobbit|5
+The Chronicles of Narnia|5
+Alice in Wonderland|5
+# cut: The Wizard of Oz|5 (duplicate in entertainment)
+Matilda|5
+The BFG|5
+Charlotte's Web|5
+# cut: Stuart Little|5 (duplicate in entertainment)
+Green Eggs and Ham|5
+Goodnight Moon|5
+The Very Hungry Caterpillar|5
+The Giving Tree|5
+Curious George|5
+Paddington Bear|5
+Peter Rabbit|5
+Little Women|5
+Anne of Green Gables|5
+The Secret Garden|5
+Treasure Island|5
+Robinson Crusoe|5
+Huckleberry Finn|5
+The Time Machine|5
+War of the Worlds|5
+The Hunger Games|5
+Catching Fire|5
+Mockingjay|5
+Twilight|5
+New Moon|5
+Eclipse|5
+Divergent|5
+Percy Jackson|5
+The Lightning Thief|5
+The Da Vinci Code|5
+Angels and Demons|5
+Gone Girl|5
+# cut: The Shining|5 (duplicate in entertainment)
+Carrie|5
+Misery|5
+It|5
+Pet Sematary|5
+# cut: Jurassic Park|5 (duplicate in entertainment)
+The Bourne Identity|5
+# cut: The Godfather|5 (duplicate in entertainment)
+Stephen King|5
+Agatha Christie|5
+The Three Musketeers|5
+Les Miserables|5
+A Christmas Carol|5

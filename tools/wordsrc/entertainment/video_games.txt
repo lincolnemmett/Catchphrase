@@ -1,0 +1,89 @@
+Super Mario Bros|5
+Pac-Man|5
+Tetris|5
+Space Invaders|5
+# cut: Donkey Kong|5 (duplicate in entertainment)
+The Legend of Zelda|5
+Pokemon|5
+Minecraft|5
+Grand Theft Auto|5
+Call of Duty|5
+Fortnite|5
+Roblox|5
+World of Warcraft|5
+League of Legends|5
+Overwatch|5
+Counter-Strike|5
+Halo|5
+Doom|5
+Street Fighter|5
+Mortal Kombat|5
+Tekken|5
+Super Smash Bros|5
+Mario Kart|5
+Crash Bandicoot|5
+Tomb Raider|5
+Resident Evil|5
+Silent Hill|5
+Final Fantasy|5
+Kingdom Hearts|5
+The Sims|5
+SimCity|5
+Civilization|5
+Age of Empires|5
+StarCraft|5
+Diablo|5
+Fallout|5
+The Elder Scrolls|5
+Skyrim|5
+The Witcher|5
+Dark Souls|5
+Elden Ring|5
+God of War|5
+Uncharted|5
+The Last of Us|5
+Red Dead Redemption|5
+Assassin's Creed|5
+Far Cry|5
+BioShock|5
+Mass Effect|5
+Portal|5
+Half-Life|5
+Guitar Hero|5
+Rock Band|5
+Dance Dance Revolution|5
+Angry Birds|5
+Candy Crush|5
+Fruit Ninja|5
+Temple Run|5
+Flappy Bird|5
+Subway Surfers|5
+Clash of Clans|5
+Among Us|5
+Animal Crossing|5
+Splatoon|5
+Rocket League|5
+Apex Legends|5
+Valorant|5
+Destiny|5
+Borderlands|5
+Cyberpunk|5
+Gears of War|5
+Metal Gear Solid|5
+Mega Man|5
+Castlevania|5
+Metroid|5
+Kirby|5
+Yoshi's Island|5
+Star Fox|5
+F-Zero|4
+Duck Hunt|5
+Frogger|5
+Galaga|5
+Asteroids|5
+Pong|5
+Minesweeper|5
+Solitaire|5
+Ms Pac-Man|5
+GoldenEye|5
+Defender|5

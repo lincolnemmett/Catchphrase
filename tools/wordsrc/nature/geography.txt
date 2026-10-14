@@ -1,0 +1,70 @@
+Volcano|5
+Waterfall|5
+Grand Canyon|5
+Mount Everest|5
+Rocky Mountains|5
+Alps|5
+Himalayas|5
+Andes|5
+Sahara Desert|5
+Amazon Rainforest|5
+Niagara Falls|5
+Great Barrier Reef|5
+Dead Sea|5
+Pacific Ocean|5
+Atlantic Ocean|5
+Indian Ocean|5
+Arctic Ocean|5
+Antarctica|5
+North Pole|5
+South Pole|5
+Equator|5
+Continent|5
+Peninsula|5
+Island|5
+Archipelago|4
+Valley|5
+Canyon|5
+Plateau|5
+Glacier|5
+Iceberg|5
+Fjord|5
+Lagoon|5
+Swamp|5
+Marsh|5
+Oasis|5
+Sand Dune|5
+Cave|5
+Stalactite|4
+Geyser|5
+Old Faithful|5
+Eiffel Tower|5
+Statue of Liberty|5
+Golden Gate Bridge|5
+Colosseum|5
+Taj Mahal|5
+Great Wall of China|5
+Pyramids of Giza|5
+Machu Picchu|5
+Stonehenge|5
+Big Ben|5
+Empire State Building|5
+Mount Rushmore|5
+Times Square|5
+Hollywood Sign|5
+London Eye|5
+Sydney Opera House|5
+Tower of Pisa|5
+Christ the Redeemer|5
+Louvre Museum|5
+Grand Canal|5
+Amazon River|5
+Nile River|5
+Mississippi River|5
+Thames River|5
+Danube River|5
+Yellowstone National Park|5
+Yosemite|5
+Hawaii|5
+Bermuda Triangle|5
+Greenland|5

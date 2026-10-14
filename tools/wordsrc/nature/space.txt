@@ -1,0 +1,69 @@
+Moon|5
+Sun|5
+Solar System|5
+Milky Way|5
+Galaxy|5
+Universe|5
+Astronaut|5
+Cosmonaut|4
+Spaceship|5
+Space Shuttle|5
+Space Station|5
+Rocket|5
+Launchpad|5
+Mission Control|5
+Spacewalk|5
+Zero Gravity|5
+Space Suit|5
+Black Hole|5
+Supernova|5
+Nebula|5
+Comet|5
+Meteor|5
+Meteor Shower|5
+Shooting Star|5
+Constellation|5
+Big Dipper|5
+Little Dipper|5
+North Star|5
+Polaris|4
+Orion's Belt|5
+Southern Cross|5
+Planet|5
+Mercury|5
+Venus|5
+Earth|5
+Mars|5
+Jupiter|5
+Saturn|5
+Uranus|5
+Neptune|5
+Pluto|5
+Dwarf Planet|5
+Asteroid Belt|5
+Rings of Saturn|5
+Great Red Spot|5
+Solar Eclipse|5
+Lunar Eclipse|5
+Orbit|5
+Light Year|5
+Telescope|5
+Hubble Telescope|5
+James Webb Telescope|5
+Satellite|5
+Space Probe|5
+Mars Rover|5
+Moon Landing|5
+Apollo Eleven|5
+Curiosity Rover|5
+International Space Station|5
+Cosmic Dust|4
+Solar Flare|5
+Solar Wind|5
+Wormhole|5
+Dark Matter|5
+Alien|5
+UFO|5
+Extraterrestrial|5
+Flying Saucer|5
+Exoplanet|5

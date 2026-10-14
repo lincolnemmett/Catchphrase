@@ -83,7 +83,7 @@ Mansion|5
 Cabin|5
 Treehouse|5
 Igloo|5
-Tent|4
+# cut: Tent|4 (duplicate in everyday)
 Haunted house|5
 Greenhouse|4
 Daycare|5
@@ -108,7 +108,7 @@ Bus stop|5
 Subway station|4
 Dog park|4
 Golf course|5
-Bowling green|3
+# cut: Bowling green|3 (rating < 4)
 Tattoo parlor|4
 Hot tub|4
 Shed|4

@@ -44,24 +44,24 @@ Do not disturb|5
 Front desk|4
 Tourist|5
 Sightseeing|5
-Tour bus|5
+# cut: Tour bus|5 (belongs in things)
 Guidebook|4
 Map|5
 Compass|5
 GPS|5
 Postcard|5
-Camera|4
-Selfie stick|5
+# cut: Camera|4 (belongs in things)
+# cut: Selfie stick|5 (belongs in things)
 Sunscreen|5
-Sunglasses|4
+# cut: Sunglasses|4 (belongs in things)
 Beach towel|5
 Camping|5
 Campfire|5
-Sleeping bag|5
+# cut: Sleeping bag|5 (belongs in things)
 Tent|5
-RV|5
+# cut: RV|5 (belongs in things)
 Hitchhiking|5
-Gas station snacks|2
+# cut: Gas station snacks|2 (rating < 4)
 Rest stop|5
 Toll booth|5
 Traffic jam|5
@@ -90,33 +90,33 @@ Airline food|4
 Neck pillow|5
 Ear plugs|4
 Overhead bin|5
-Pilot announcement|2
+# cut: Pilot announcement|2 (rating < 4)
 Turbulence|5
 Emergency exit|4
 Life jacket|5
-Cruise ship|4
+# cut: Cruise ship|4 (belongs in things)
 Cabin crew|4
-Ferry ride|3
+# cut: Ferry ride|3 (rating < 4)
 Train ride|4
 Road sign|4
 Bucket list|5
 World tour|4
 Expedition|4
-Pilgrimage|3
-Backpack|4
-Fanny pack|5
+# cut: Pilgrimage|3 (rating < 4)
+# cut: Backpack|4 (duplicate in everyday)
+# cut: Fanny pack|5 (belongs in things)
 Travel pillow|4
 Hiking|5
-Trail map|3
+# cut: Trail map|3 (rating < 4)
 Ski trip|4
 Bon voyage|5
 Homesick|4
-Jet ski|4
+# cut: Jet ski|4 (belongs in things)
 Snorkeling|5
 Scuba diving|5
 Sunburn|5
 Tan lines|4
-Hammock|5
+# cut: Hammock|5 (belongs in things)
 # Cuts
 # cut: Gas station snacks|2 (made-up compound)
 # cut: Pilot announcement|2 (made-up compound)

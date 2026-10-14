@@ -33,8 +33,8 @@ Christmas tree|5
 Santa Claus|5
 Stocking|4
 Mistletoe|5
-Candy cane|5
-Gingerbread house|5
+# cut: Candy cane|5 (belongs in food)
+# cut: Gingerbread house|5 (belongs in food)
 Advent calendar|4
 Ugly sweater|5
 Secret Santa|5
@@ -42,7 +42,7 @@ Christmas carol|4
 Trick-or-treating|5
 Jack-o'-lantern|5
 Costume party|5
-Haunted hayride|3
+# cut: Haunted hayride|3 (rating < 4)
 Easter egg hunt|5
 Easter Bunny|5
 Fireworks|5
@@ -58,33 +58,33 @@ Bridal shower|5
 Bachelor party|5
 Engagement|5
 Proposal|4
-Engagement ring|5
+# cut: Engagement ring|5 (belongs in things)
 Wedding cake|5
-Wedding dress|4
+# cut: Wedding dress|4 (belongs in things)
 Bride|5
 Groom|5
 Best man|5
 Maid of honor|5
 Flower girl|5
-Honeymoon|4
+# cut: Honeymoon|4 (duplicate in everyday)
 Anniversary|5
 Retirement party|5
 Housewarming party|5
 Family reunion|5
 Funeral|4
-Baby's first birthday|3
+# cut: Baby's first birthday|3 (rating < 4)
 Sweet sixteen|4
 Quinceañera|4
 Bar mitzvah|4
-Prom|4
+# cut: Prom|4 (duplicate in everyday)
 Sleepover|5
 Slumber party|4
 Pool party|5
 Tea party|4
 Dinner party|5
 Block party|4
-Potluck|5
-Barbecue party|3
+# cut: Potluck|5 (belongs in food)
+# cut: Barbecue party|3 (rating < 4)
 Office party|4
 Holiday card|4
 Gift wrap|5
@@ -97,21 +97,21 @@ Balloons|5
 Streamers|4
 Party favors|4
 Champagne toast|4
-Toast|4
-Cake cutting|3
+# cut: Toast|4 (belongs in food)
+# cut: Cake cutting|3 (rating < 4)
 Bouquet toss|4
 Wedding ring|4
 Wedding vows|5
 Reception|4
 Dance floor|4
-Fourth of July parade|3
+# cut: Fourth of July parade|3 (rating < 4)
 Black Friday|5
 Cyber Monday|4
 Boxing Day|4
 Leap year|4
 Day off|4
 Long weekend|4
-Bonfire Night|2
+# cut: Bonfire Night|2 (rating < 4)
 Oktoberfest|5
 Carnival|5
 Festival|4
@@ -121,7 +121,7 @@ Gender reveal|4
 Retirement|4
 First day of school|4
 Tooth fairy|4
-Lost tooth|3
+# cut: Lost tooth|3 (rating < 4)
 # Cuts
 # cut: New Year's Day|4 (near-duplicate of New Year's Eve)
 # cut: Independence Day|4 (near-duplicate of Fourth of July; also a movie)

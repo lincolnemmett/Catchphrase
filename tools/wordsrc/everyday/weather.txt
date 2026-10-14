@@ -35,7 +35,7 @@ Storm cloud|4
 Overcast|4
 Sunny day|4
 Rainy day|5
-Snow day|5
+# cut: Snow day|5 (duplicate in everyday)
 Puddle|5
 Icicle|5
 Frost|5
@@ -51,15 +51,15 @@ Weather forecast|5
 Weather report|4
 Temperature|5
 Thermometer|5
-Degrees|3
+# cut: Degrees|3 (rating < 4)
 Celsius|4
 Fahrenheit|4
-Umbrella|5
-Raincoat|4
-Rain boots|4
+# cut: Umbrella|5 (belongs in things)
+# cut: Raincoat|4 (belongs in things)
+# cut: Rain boots|4 (belongs in things)
 Snowman|5
 Snowball|5
-Snowplow|4
+# cut: Snowplow|4 (belongs in things)
 Snow angel|5
 Wind chill|4
 Frostbite|4
@@ -71,10 +71,10 @@ Muggy|4
 Chilly|4
 Windy|4
 Foggy|4
-Indian summer|2
+# cut: Indian summer|2 (rating < 4)
 April showers|4
-Weathervane|3
-Barometer|2
+# cut: Weathervane|3 (rating < 4)
+# cut: Barometer|2 (rating < 4)
 Raindrop|5
 Dew|4
 Hailstorm|4
@@ -83,10 +83,10 @@ Eye of the storm|4
 Global warming|4
 Climate change|4
 Smog|4
-Hot weather|3
+# cut: Hot weather|3 (rating < 4)
 Cloudy|4
 Snowfall|4
-Snowdrift|3
+# cut: Snowdrift|3 (rating < 4)
 # Cuts
 # cut: Fall|4 (near-duplicate of Autumn)
 # cut: Hailstorm|4 (near-duplicate of Hail)

@@ -1,0 +1,79 @@
+Monopoly|5
+Scrabble|5
+Clue|5
+Risk|5
+Battleship|5
+The Game of Life|5
+Candy Land|5
+Chutes and Ladders|5
+Sorry|5
+Trouble|5
+Operation|5
+Twister|5
+Connect Four|5
+Jenga|5
+Guess Who|5
+Pictionary|5
+Trivial Pursuit|5
+Cranium|5
+Taboo|5
+Scattergories|5
+Boggle|5
+Yahtzee|5
+Uno|5
+Dos|4
+Skip-Bo|5
+Exploding Kittens|5
+Cards Against Humanity|5
+Apples to Apples|5
+Codenames|5
+Settlers of Catan|5
+Ticket to Ride|5
+Carcassonne|5
+Pandemic|5
+Wingspan|4
+Chess|5
+Checkers|5
+Backgammon|5
+Dominoes|5
+Mahjong|5
+Go|5
+Poker|5
+Blackjack|5
+Texas Hold'em|5
+Rummy|5
+Gin Rummy|5
+Spades|5
+Hearts|5
+Euchre|5
+Cribbage|5
+Crazy Eights|5
+Old Maid|5
+Go Fish|5
+War|5
+Speed|5
+Slapjack|5
+Charades|5
+Musical Chairs|5
+Simon Says|5
+Duck Duck Goose|5
+Tag|5
+Hide and Seek|5
+Hopscotch|5
+Red Rover|5
+Capture the Flag|5
+Four Square|5
+Tetherball|5
+Sack Race|5
+Egg and Spoon Race|5
+Pin the Tail|5
+Hot Potato|5
+Bobbing for Apples|5
+Trivia Night|5
+Escape Room|5
+Laser Tag|5
+Paintball|5
+Mini Golf|5
+Pool|5
+Air Hockey|5
+Foosball|5

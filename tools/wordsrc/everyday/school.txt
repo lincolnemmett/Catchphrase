@@ -41,7 +41,7 @@ Midterm|4
 Grade|4
 Straight A's|4
 Honor roll|4
-Pass or fail|3
+# cut: Pass or fail|3 (rating < 4)
 Diploma|5
 Graduation cap|4
 Yearbook|5
@@ -110,13 +110,13 @@ Alphabet|5
 Cursive|5
 Handwriting|4
 Gold star|5
-Sticker chart|3
+# cut: Sticker chart|3 (rating < 4)
 Cheat sheet|5
-Copying homework|3
+# cut: Copying homework|3 (rating < 4)
 Raise your hand|4
-Recess bell|2
+# cut: Recess bell|2 (rating < 4)
 Lunch lady|5
-Hallway monitor|3
+# cut: Hallway monitor|3 (rating < 4)
 Sharpie|4
 Dodgeball|4
 Library card|5

@@ -1,0 +1,67 @@
+Internet|5
+World Wide Web|5
+Wi-Fi|5
+Bluetooth|5
+Artificial Intelligence|5
+Robot|5
+Cyborg|5
+Algorithm|5
+Computer Code|5
+Software|5
+Hardware|5
+Microchip|5
+Silicon Valley|5
+Supercomputer|5
+Virtual Reality|5
+Augmented Reality|5
+Hologram|5
+Cybersecurity|5
+Computer Virus|5
+Hacker|5
+Firewall|5
+Cloud Computing|5
+Search Engine|5
+Social Media|5
+Hashtag|5
+Emoji|5
+Podcast|5
+Livestream|5
+Broadband|5
+Fiber Optic|5
+Electricity|5
+Magnet|5
+Solar Panel|5
+Wind Turbine|5
+Hydroelectric Dam|5
+Nuclear Power|5
+Battery|5
+Generator|5
+Electric Motor|5
+Laser|5
+Microscope|5
+Seismograph|4
+Geiger Counter|5
+Particle Accelerator|5
+DNA|5
+Chromosome|5
+Genetic Engineering|5
+Cloning|5
+Vaccine|5
+Antibiotics|5
+X-Ray|5
+MRI Scan|5
+Ultrasound|5
+Pacemaker|5
+Prosthetic Limb|5
+Bionic Eye|5
+Nanotechnology|5
+Quantum Computer|5
+Three D Printing|5
+GPS Navigation|5
+Barcode|5
+QR Code|5
+Facial Recognition|5
+Fingerprint Scanner|5
+Touchscreen|5
+Voice Recognition|5
+Smart Home|5
