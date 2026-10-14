@@ -1562,6 +1562,1191 @@
 "text":"Wishy-washy",
 "subtopic":"idioms",
 "rating":4
+},
+{
+"text":"Better late than never",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Actions speak louder",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Easy come easy go",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Practice makes perfect",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Time flies",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Knowledge is power",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Honesty is best policy",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Laughter is best medicine",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Beauty is skin deep",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Look before you leap",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"When in Rome",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Curiosity killed the cat",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Where there is smoke",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"All that glitters",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Grass is always greener",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Do not count chickens",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Fortune favors the bold",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Too many cooks",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Early bird gets worm",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"No pain no gain",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Opposites attract",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Penny saved penny earned",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Slow and steady wins",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Silence is golden",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Seeing is believing",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"What goes around",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Forgive and forget",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Live and let live",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Cleanliness is next godliness",
+"subtopic":"sayings",
+"rating":4
+},
+{
+"text":"Great minds think alike",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Haste makes waste",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Ignorance is bliss",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Keep your fingers crossed",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Let bygones be bygones",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Patience is a virtue",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Better safe than sorry",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Time heals all wounds",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Curiosity killed cat",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Laughter cures all",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Honesty pays off",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Live in the moment",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Count your blessings",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Dream big",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Expect the unexpected",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Less is more",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Make haste slowly",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Stay positive",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Be kind",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Follow your heart",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Shoot for the stars",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Seize the day",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Stay humble",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Keep smiling",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Time is money",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Work hard play hard",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Never give up",
+"subtopic":"sayings",
+"rating":5
+},
+{
+"text":"Sneezing",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Whispering",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Juggling",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Brushing teeth",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Tying shoes",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Shoveling snow",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Mowing the lawn",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Washing dishes",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Baking cookies",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Flipping pancakes",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Walking the dog",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Milking a cow",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Riding a roller coaster",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Singing in shower",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Playing guitar",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Playing piano",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Blowing bubbles",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Blowing out candles",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Popping balloons",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Wrapping a gift",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Opening a present",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Taking a selfie",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Texting a friend",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Hailing a cab",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Checking the time",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Looking in mirror",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Applying lipstick",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Ironing a shirt",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Folding laundry",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Vacuuming",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Sweeping the floor",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Mopping the kitchen",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Climbing a ladder",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Painting a fence",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Hammering a nail",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Sawing wood",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Knitting a scarf",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Sewing a button",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Reading a bedtime story",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Rocking a baby",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Pushing a stroller",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Flying a kite",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Building a sandcastle",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Roasting marshmallows",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Fishing",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Casting a fishing line",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Rowing a boat",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Paddling a canoe",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Swimming laps",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Diving into pool",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing a belly flop",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Surfing a wave",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Building a snowman",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Making snow angels",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Throwing snowballs",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Sledding down hill",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Skiing down mountain",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Riding a skateboard",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Riding a scooter",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Riding a bicycle",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Jumping on trampoline",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Skipping rope",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing jumping jacks",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing pushups",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing situps",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Lifting weights",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Running a marathon",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Stretching hamstrings",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing yoga pose",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing a backflip",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing a handstand",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Doing a cartwheel",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Hula hooping",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Walking on tightrope",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Jumping out of airplane",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Paragliding",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Bungee jumping",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Climbing a mountain",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Exploring a cave",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Hiking up trail",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Pitching a tent",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Starting a campfire",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Chopping firewood",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Hunting for treasure",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Digging for gold",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Planting a garden",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Watering flowers",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Picking apples",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Raking autumn leaves",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Climbing a tree",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Swinging on a swing",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Sliding down slide",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Playing hide and seek",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Playing peekaboo",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Tickling someone",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Giving a high five",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Fist bumping",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Shaking hands",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Giving a bear hug",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Waving goodbye",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Blowing a kiss",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Winking playfully",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Nodding in agreement",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Shrugging shoulders",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Scratching head",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Rubbing eyes",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Yawning loudly",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Stifling a laugh",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Giggling uncontrollably",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Bursting into tears",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Sniffling with a cold",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Blowing nose",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Gargling mouthwash",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Flossing teeth",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Combing hair",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Shaving beard",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Putting on coat",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Buttoning up shirt",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Zipping up jacket",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Tying necktie",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Polishing shoes",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Hanging up coat",
+"subtopic":"verbs",
+"rating":5
+},
+{
+"text":"Happy",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Joyful",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Ecstatic",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Cheerful",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Delighted",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Content",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Peaceful",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Relieved",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Optimistic",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Proud",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Excited",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Thrilled",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Enthusiastic",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Curious",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Surprised",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Amazed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Astonished",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Confused",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Puzzled",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Hesitant",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Sad",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Depressed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Heartbroken",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Gloomy",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Lonely",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Disappointed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Frustrated",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Annoyed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Irritated",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Angry",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Furious",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Enraged",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Outraged",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Bitter",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Jealous",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Envious",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Resentful",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Guilty",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Ashamed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Embarrassed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Nervous",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Anxious",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Worried",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Stressed",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Terrified",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Panicked",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Frightened",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Paranoid",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Shocked",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Bored",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Exhausted",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Sleepy",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Impatient",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Hangry",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Grateful",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Hopeful",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Affectionate",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Loved",
+"subtopic":"emotions",
+"rating":5
+},
+{
+"text":"Overwhelmed",
+"subtopic":"emotions",
+"rating":5
 }
 ]
 }

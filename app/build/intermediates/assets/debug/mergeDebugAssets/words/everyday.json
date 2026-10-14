@@ -1032,11 +1032,6 @@
 "rating":5
 },
 {
-"text":"Tent",
-"subtopic":"places",
-"rating":4
-},
-{
 "text":"Haunted house",
 "subtopic":"places",
 "rating":5
@@ -1155,11 +1150,6 @@
 "text":"Golf course",
 "subtopic":"places",
 "rating":5
-},
-{
-"text":"Bowling green",
-"subtopic":"places",
-"rating":3
 },
 {
 "text":"Tattoo parlor",
@@ -1437,11 +1427,6 @@
 "rating":5
 },
 {
-"text":"Tour bus",
-"subtopic":"travel",
-"rating":5
-},
-{
 "text":"Guidebook",
 "subtopic":"travel",
 "rating":4
@@ -1467,24 +1452,9 @@
 "rating":5
 },
 {
-"text":"Camera",
-"subtopic":"travel",
-"rating":4
-},
-{
-"text":"Selfie stick",
-"subtopic":"travel",
-"rating":5
-},
-{
 "text":"Sunscreen",
 "subtopic":"travel",
 "rating":5
-},
-{
-"text":"Sunglasses",
-"subtopic":"travel",
-"rating":4
 },
 {
 "text":"Beach towel",
@@ -1502,17 +1472,7 @@
 "rating":5
 },
 {
-"text":"Sleeping bag",
-"subtopic":"travel",
-"rating":5
-},
-{
 "text":"Tent",
-"subtopic":"travel",
-"rating":5
-},
-{
-"text":"RV",
 "subtopic":"travel",
 "rating":5
 },
@@ -1520,11 +1480,6 @@
 "text":"Hitchhiking",
 "subtopic":"travel",
 "rating":5
-},
-{
-"text":"Gas station snacks",
-"subtopic":"travel",
-"rating":2
 },
 {
 "text":"Rest stop",
@@ -1667,11 +1622,6 @@
 "rating":5
 },
 {
-"text":"Pilot announcement",
-"subtopic":"travel",
-"rating":2
-},
-{
 "text":"Turbulence",
 "subtopic":"travel",
 "rating":5
@@ -1687,19 +1637,9 @@
 "rating":5
 },
 {
-"text":"Cruise ship",
-"subtopic":"travel",
-"rating":4
-},
-{
 "text":"Cabin crew",
 "subtopic":"travel",
 "rating":4
-},
-{
-"text":"Ferry ride",
-"subtopic":"travel",
-"rating":3
 },
 {
 "text":"Train ride",
@@ -1727,21 +1667,6 @@
 "rating":4
 },
 {
-"text":"Pilgrimage",
-"subtopic":"travel",
-"rating":3
-},
-{
-"text":"Backpack",
-"subtopic":"travel",
-"rating":4
-},
-{
-"text":"Fanny pack",
-"subtopic":"travel",
-"rating":5
-},
-{
 "text":"Travel pillow",
 "subtopic":"travel",
 "rating":4
@@ -1750,11 +1675,6 @@
 "text":"Hiking",
 "subtopic":"travel",
 "rating":5
-},
-{
-"text":"Trail map",
-"subtopic":"travel",
-"rating":3
 },
 {
 "text":"Ski trip",
@@ -1768,11 +1688,6 @@
 },
 {
 "text":"Homesick",
-"subtopic":"travel",
-"rating":4
-},
-{
-"text":"Jet ski",
 "subtopic":"travel",
 "rating":4
 },
@@ -1795,11 +1710,6 @@
 "text":"Tan lines",
 "subtopic":"travel",
 "rating":4
-},
-{
-"text":"Hammock",
-"subtopic":"travel",
-"rating":5
 },
 {
 "text":"Basketball",
@@ -2022,11 +1932,6 @@
 "rating":5
 },
 {
-"text":"Hiking",
-"subtopic":"sports",
-"rating":5
-},
-{
 "text":"Horse racing",
 "subtopic":"sports",
 "rating":5
@@ -2038,11 +1943,6 @@
 },
 {
 "text":"Badminton",
-"subtopic":"sports",
-"rating":5
-},
-{
-"text":"Dodgeball",
 "subtopic":"sports",
 "rating":5
 },
@@ -2177,11 +2077,6 @@
 "rating":5
 },
 {
-"text":"Referee whistle",
-"subtopic":"sports",
-"rating":2
-},
-{
 "text":"Hat trick",
 "subtopic":"sports",
 "rating":4
@@ -2307,11 +2202,6 @@
 "rating":5
 },
 {
-"text":"Jump rope",
-"subtopic":"sports",
-"rating":5
-},
-{
 "text":"Push-up",
 "subtopic":"sports",
 "rating":5
@@ -2347,11 +2237,6 @@
 "rating":5
 },
 {
-"text":"Stopwatch",
-"subtopic":"sports",
-"rating":4
-},
-{
 "text":"Bench press",
 "subtopic":"sports",
 "rating":4
@@ -2377,11 +2262,6 @@
 "rating":5
 },
 {
-"text":"Pole dancing",
-"subtopic":"sports",
-"rating":1
-},
-{
 "text":"Quarterback",
 "subtopic":"sports",
 "rating":5
@@ -2395,11 +2275,6 @@
 "text":"Pitcher",
 "subtopic":"sports",
 "rating":4
-},
-{
-"text":"Catcher",
-"subtopic":"sports",
-"rating":3
 },
 {
 "text":"Water skiing",
@@ -2582,11 +2457,6 @@
 "rating":5
 },
 {
-"text":"Snow day",
-"subtopic":"weather",
-"rating":5
-},
-{
 "text":"Puddle",
 "subtopic":"weather",
 "rating":5
@@ -2662,32 +2532,12 @@
 "rating":5
 },
 {
-"text":"Degrees",
-"subtopic":"weather",
-"rating":3
-},
-{
 "text":"Celsius",
 "subtopic":"weather",
 "rating":4
 },
 {
 "text":"Fahrenheit",
-"subtopic":"weather",
-"rating":4
-},
-{
-"text":"Umbrella",
-"subtopic":"weather",
-"rating":5
-},
-{
-"text":"Raincoat",
-"subtopic":"weather",
-"rating":4
-},
-{
-"text":"Rain boots",
 "subtopic":"weather",
 "rating":4
 },
@@ -2700,11 +2550,6 @@
 "text":"Snowball",
 "subtopic":"weather",
 "rating":5
-},
-{
-"text":"Snowplow",
-"subtopic":"weather",
-"rating":4
 },
 {
 "text":"Snow angel",
@@ -2762,24 +2607,9 @@
 "rating":4
 },
 {
-"text":"Indian summer",
-"subtopic":"weather",
-"rating":2
-},
-{
 "text":"April showers",
 "subtopic":"weather",
 "rating":4
-},
-{
-"text":"Weathervane",
-"subtopic":"weather",
-"rating":3
-},
-{
-"text":"Barometer",
-"subtopic":"weather",
-"rating":2
 },
 {
 "text":"Raindrop",
@@ -2822,11 +2652,6 @@
 "rating":4
 },
 {
-"text":"Hot weather",
-"subtopic":"weather",
-"rating":3
-},
-{
 "text":"Cloudy",
 "subtopic":"weather",
 "rating":4
@@ -2835,11 +2660,6 @@
 "text":"Snowfall",
 "subtopic":"weather",
 "rating":4
-},
-{
-"text":"Snowdrift",
-"subtopic":"weather",
-"rating":3
 },
 {
 "text":"Homework",
@@ -3050,11 +2870,6 @@
 "text":"Honor roll",
 "subtopic":"school",
 "rating":4
-},
-{
-"text":"Pass or fail",
-"subtopic":"school",
-"rating":3
 },
 {
 "text":"Diploma",
@@ -3397,19 +3212,9 @@
 "rating":5
 },
 {
-"text":"Sticker chart",
-"subtopic":"school",
-"rating":3
-},
-{
 "text":"Cheat sheet",
 "subtopic":"school",
 "rating":5
-},
-{
-"text":"Copying homework",
-"subtopic":"school",
-"rating":3
 },
 {
 "text":"Raise your hand",
@@ -3417,19 +3222,9 @@
 "rating":4
 },
 {
-"text":"Recess bell",
-"subtopic":"school",
-"rating":2
-},
-{
 "text":"Lunch lady",
 "subtopic":"school",
 "rating":5
-},
-{
-"text":"Hallway monitor",
-"subtopic":"school",
-"rating":3
 },
 {
 "text":"Sharpie",
@@ -3652,16 +3447,6 @@
 "rating":5
 },
 {
-"text":"Candy cane",
-"subtopic":"holidays",
-"rating":5
-},
-{
-"text":"Gingerbread house",
-"subtopic":"holidays",
-"rating":5
-},
-{
 "text":"Advent calendar",
 "subtopic":"holidays",
 "rating":4
@@ -3695,11 +3480,6 @@
 "text":"Costume party",
 "subtopic":"holidays",
 "rating":5
-},
-{
-"text":"Haunted hayride",
-"subtopic":"holidays",
-"rating":3
 },
 {
 "text":"Easter egg hunt",
@@ -3777,19 +3557,9 @@
 "rating":4
 },
 {
-"text":"Engagement ring",
-"subtopic":"holidays",
-"rating":5
-},
-{
 "text":"Wedding cake",
 "subtopic":"holidays",
 "rating":5
-},
-{
-"text":"Wedding dress",
-"subtopic":"holidays",
-"rating":4
 },
 {
 "text":"Bride",
@@ -3817,11 +3587,6 @@
 "rating":5
 },
 {
-"text":"Honeymoon",
-"subtopic":"holidays",
-"rating":4
-},
-{
 "text":"Anniversary",
 "subtopic":"holidays",
 "rating":5
@@ -3847,11 +3612,6 @@
 "rating":4
 },
 {
-"text":"Baby's first birthday",
-"subtopic":"holidays",
-"rating":3
-},
-{
 "text":"Sweet sixteen",
 "subtopic":"holidays",
 "rating":4
@@ -3863,11 +3623,6 @@
 },
 {
 "text":"Bar mitzvah",
-"subtopic":"holidays",
-"rating":4
-},
-{
-"text":"Prom",
 "subtopic":"holidays",
 "rating":4
 },
@@ -3900,16 +3655,6 @@
 "text":"Block party",
 "subtopic":"holidays",
 "rating":4
-},
-{
-"text":"Potluck",
-"subtopic":"holidays",
-"rating":5
-},
-{
-"text":"Barbecue party",
-"subtopic":"holidays",
-"rating":3
 },
 {
 "text":"Office party",
@@ -3972,16 +3717,6 @@
 "rating":4
 },
 {
-"text":"Toast",
-"subtopic":"holidays",
-"rating":4
-},
-{
-"text":"Cake cutting",
-"subtopic":"holidays",
-"rating":3
-},
-{
 "text":"Bouquet toss",
 "subtopic":"holidays",
 "rating":4
@@ -4005,11 +3740,6 @@
 "text":"Dance floor",
 "subtopic":"holidays",
 "rating":4
-},
-{
-"text":"Fourth of July parade",
-"subtopic":"holidays",
-"rating":3
 },
 {
 "text":"Black Friday",
@@ -4040,11 +3770,6 @@
 "text":"Long weekend",
 "subtopic":"holidays",
 "rating":4
-},
-{
-"text":"Bonfire Night",
-"subtopic":"holidays",
-"rating":2
 },
 {
 "text":"Oktoberfest",
@@ -4090,11 +3815,6 @@
 "text":"Tooth fairy",
 "subtopic":"holidays",
 "rating":4
-},
-{
-"text":"Lost tooth",
-"subtopic":"holidays",
-"rating":3
 }
 ]
 }
