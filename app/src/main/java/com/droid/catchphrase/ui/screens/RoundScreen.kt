@@ -15,15 +15,17 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.safeDrawingPadding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowForward
+import androidx.compose.material.icons.automirrored.filled.VolumeOff
 import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.FastForward
 import androidx.compose.material.icons.filled.Pause
 import androidx.compose.material.icons.filled.PlayArrow
-import androidx.compose.material.icons.filled.VolumeOff
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
@@ -77,7 +79,7 @@ fun RoundScreen(
     }
 
     LaunchedEffect(Unit) {
-        if (!timerState.isRunning && !timerState.isFinished) {
+        if (!timerState.isRunning && !timerState.isPaused && !timerState.isFinished) {
             viewModel.startRound {
                 onRoundEnd()
             }
@@ -94,32 +96,38 @@ fun RoundScreen(
         label = "teamBgColor"
     )
 
-    Box(
-        modifier = Modifier
-            .fillMaxSize()
-            .background(animatedBgColor)
+    Surface(
+        modifier = Modifier.fillMaxSize(),
+        color = MaterialTheme.colorScheme.background
     ) {
+        Box(
+            modifier = Modifier
+                .fillMaxSize()
+                .background(animatedBgColor)
+                .safeDrawingPadding()
+        ) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(20.dp),
-            horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.SpaceBetween
+                .padding(horizontal = 20.dp, vertical = 12.dp),
+            horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            // Header: Team badge, audio warning, and pause button
+            // Header: Team badge & pause button (safe from camera cutout/status bar)
             Row(
-                modifier = Modifier.fillMaxWidth(),
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(top = 4.dp, bottom = 12.dp),
                 horizontalArrangement = Arrangement.SpaceBetween,
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 // Team Badge (explicitly shows who holds the phone)
                 Surface(
-                    shape = RoundedCornerShape(24.dp),
+                    shape = RoundedCornerShape(20.dp),
                     color = teamAccentColor,
-                    shadowElevation = 4.dp
+                    shadowElevation = 3.dp
                 ) {
                     Row(
-                        modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp),
+                        modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp),
                         verticalAlignment = Alignment.CenterVertically,
                         horizontalArrangement = Arrangement.spacedBy(8.dp)
                     ) {
@@ -138,11 +146,14 @@ fun RoundScreen(
                     }
                 }
 
-                Row(verticalAlignment = Alignment.CenterVertically) {
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(8.dp)
+                ) {
                     if (isMutedWarning) {
                         IconButton(onClick = { isMutedWarning = viewModel.soundController.isMediaVolumeZero() }) {
                             Icon(
-                                Icons.Default.VolumeOff,
+                                Icons.AutoMirrored.Filled.VolumeOff,
                                 contentDescription = "Media Volume Muted Warning",
                                 tint = MaterialTheme.colorScheme.error
                             )
@@ -152,6 +163,7 @@ fun RoundScreen(
                     IconButton(
                         onClick = { viewModel.pauseGame() },
                         modifier = Modifier
+                            .size(44.dp)
                             .clip(CircleShape)
                             .background(MaterialTheme.colorScheme.surfaceVariant)
                     ) {
@@ -160,51 +172,56 @@ fun RoundScreen(
                 }
             }
 
-            // Word display area (Dominant center)
-            Card(
+            // Word display area (Centered vertically with flexible weight)
+            Box(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(vertical = 16.dp),
-                shape = RoundedCornerShape(32.dp),
-                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-                elevation = CardDefaults.cardElevation(defaultElevation = 8.dp)
+                    .weight(1f),
+                contentAlignment = Alignment.Center
             ) {
-                Column(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(horizontal = 24.dp, vertical = 48.dp),
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.Center
+                Card(
+                    modifier = Modifier.fillMaxWidth(),
+                    shape = RoundedCornerShape(28.dp),
+                    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+                    elevation = CardDefaults.cardElevation(defaultElevation = 6.dp)
                 ) {
-                    Text(
-                        text = currentWord?.subtopic?.replace("_", " ")?.uppercase() ?: "",
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.outline,
-                        letterSpacing = 1.5.sp,
-                        fontWeight = FontWeight.Bold
-                    )
+                    Column(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(horizontal = 20.dp, vertical = 36.dp),
+                        horizontalAlignment = Alignment.CenterHorizontally,
+                        verticalArrangement = Arrangement.Center
+                    ) {
+                        Text(
+                            text = currentWord?.subtopic?.replace("_", " ")?.uppercase() ?: "",
+                            style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.outline,
+                            letterSpacing = 1.5.sp,
+                            fontWeight = FontWeight.Bold
+                        )
 
-                    Spacer(modifier = Modifier.height(16.dp))
+                        Spacer(modifier = Modifier.height(16.dp))
 
-                    val wordText = currentWord?.text ?: "Ready..."
-                    val dynamicFontSize = when {
-                        wordText.length > 25 -> 28.sp
-                        wordText.length > 18 -> 34.sp
-                        wordText.length > 12 -> 42.sp
-                        else -> 52.sp
-                    }
-
-                    Text(
-                        text = wordText,
-                        fontSize = dynamicFontSize,
-                        lineHeight = dynamicFontSize * 1.15f,
-                        fontWeight = FontWeight.Black,
-                        color = MaterialTheme.colorScheme.onSurface,
-                        textAlign = TextAlign.Center,
-                        modifier = Modifier.semantics {
-                            contentDescription = "Current clue word: $wordText"
+                        val wordText = currentWord?.text ?: "Ready..."
+                        val dynamicFontSize = when {
+                            wordText.length > 25 -> 26.sp
+                            wordText.length > 18 -> 32.sp
+                            wordText.length > 12 -> 38.sp
+                            else -> 46.sp
                         }
-                    )
+
+                        Text(
+                            text = wordText,
+                            fontSize = dynamicFontSize,
+                            lineHeight = dynamicFontSize * 1.15f,
+                            fontWeight = FontWeight.Black,
+                            color = MaterialTheme.colorScheme.onSurface,
+                            textAlign = TextAlign.Center,
+                            modifier = Modifier.semantics {
+                                contentDescription = "Current clue word: $wordText"
+                            }
+                        )
+                    }
                 }
             }
 
@@ -215,39 +232,42 @@ fun RoundScreen(
                     text = "$remainingSec s",
                     style = MaterialTheme.typography.titleLarge,
                     fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.primary
+                    color = MaterialTheme.colorScheme.primary,
+                    modifier = Modifier.padding(bottom = 8.dp)
                 )
             } else {
-                Spacer(modifier = Modifier.height(24.dp))
+                Spacer(modifier = Modifier.height(12.dp))
             }
 
-            // Dominant "Got it" & Secondary "Skip" Buttons
+            // Bottom Buttons: Clearly thumb-reachable and well above navigation bar
             Column(
-                modifier = Modifier.fillMaxWidth(),
-                verticalArrangement = Arrangement.spacedBy(16.dp)
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(bottom = 12.dp),
+                verticalArrangement = Arrangement.spacedBy(12.dp)
             ) {
-                // Primary: GOT IT (Big & Loud)
+                // Primary: NEXT (Big, Loud, Elevated)
                 Button(
                     onClick = { viewModel.onGotIt() },
                     modifier = Modifier
                         .fillMaxWidth()
-                        .height(84.dp),
-                    shape = RoundedCornerShape(24.dp),
+                        .height(76.dp),
+                    shape = RoundedCornerShape(20.dp),
                     colors = ButtonDefaults.buttonColors(
                         containerColor = teamAccentColor
                     ),
                     elevation = ButtonDefaults.buttonElevation(defaultElevation = 6.dp)
                 ) {
                     Icon(
-                        Icons.Default.Check,
+                        Icons.AutoMirrored.Filled.ArrowForward,
                         contentDescription = null,
-                        modifier = Modifier.size(36.dp),
+                        modifier = Modifier.size(32.dp),
                         tint = Color.White
                     )
-                    Spacer(modifier = Modifier.size(12.dp))
+                    Spacer(modifier = Modifier.size(10.dp))
                     Text(
-                        text = "GOT IT!",
-                        fontSize = 28.sp,
+                        text = "NEXT",
+                        fontSize = 26.sp,
                         fontWeight = FontWeight.Black,
                         color = Color.White,
                         letterSpacing = 1.sp
@@ -259,15 +279,15 @@ fun RoundScreen(
                     onClick = { viewModel.onSkip() },
                     modifier = Modifier
                         .fillMaxWidth()
-                        .height(52.dp),
+                        .height(50.dp),
                     shape = RoundedCornerShape(16.dp)
                 ) {
-                    Icon(Icons.Default.FastForward, contentDescription = null)
+                    Icon(Icons.Default.FastForward, contentDescription = null, modifier = Modifier.size(20.dp))
                     Spacer(modifier = Modifier.size(8.dp))
                     Text(
-                        text = "Skip Word (Costs Time)",
+                        text = "Skip Word",
                         fontWeight = FontWeight.SemiBold,
-                        fontSize = 16.sp
+                        fontSize = 15.sp
                     )
                 }
             }
@@ -315,7 +335,10 @@ fun RoundScreen(
                             Text("Resume", fontSize = 18.sp, fontWeight = FontWeight.Bold)
                         }
                         OutlinedButton(
-                            onClick = { showExitDialog = true },
+                            onClick = {
+                                viewModel.stopRoundTimer()
+                                onExitGame()
+                            },
                             modifier = Modifier.fillMaxWidth()
                         ) {
                             Text("Quit to Menu")
@@ -337,6 +360,7 @@ fun RoundScreen(
                 confirmButton = {
                     Button(
                         onClick = {
+                            viewModel.stopRoundTimer()
                             showExitDialog = false
                             onExitGame()
                         }
@@ -357,4 +381,5 @@ fun RoundScreen(
             )
         }
     }
+}
 }

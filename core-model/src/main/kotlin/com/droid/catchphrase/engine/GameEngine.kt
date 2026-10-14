@@ -242,12 +242,11 @@ class GameEngine(
 
     companion object {
         fun defaultTeams(count: Int = 2): List<Team> {
-            val funNames = listOf("Thunderbolts", "Fireballs", "Nightowls", "Starfires")
             val colors = listOf(TeamColor.CORAL, TeamColor.TEAL, TeamColor.AMBER, TeamColor.PURPLE)
             return (0 until count.coerceIn(2, 4)).map { i ->
                 Team(
                     id = i + 1,
-                    name = funNames[i],
+                    name = "Team ${i + 1}",
                     color = colors[i]
                 )
             }

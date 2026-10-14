@@ -4,12 +4,75 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- Chat bubble background -->
+
+    <!-- 1. Speech Bubble Drop Shadow (for depth) -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:fillAlpha="0.3"
+        android:pathData="M40,49 H68 A10,10 0 0,1 78,59 V65 A10,10 0 0,1 68,75 H48 L36,83 L40,75 A10,10 0 0,1 30,65 V59 A10,10 0 0,1 40,49 Z" />
+
+    <!-- 2. Speech Bubble Body (Clean White) -->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M30,30 h48 a12,12 0 0,1 12,12 v24 a12,12 0 0,1 -12,12 h-26 l-12,12 v-12 h-10 a12,12 0 0,1 -12,-12 v-24 a12,12 0 0,1 12,-12 z" />
-    <!-- Lightning bolt / catch exclamation -->
+        android:pathData="M40,47 H68 A10,10 0 0,1 78,57 V63 A10,10 0 0,1 68,73 H48 L36,81 L40,73 A10,10 0 0,1 30,63 V57 A10,10 0 0,1 40,47 Z" />
+
+    <!-- 3. Inside Bubble: Playful Party Dots -->
+    <!-- Left Dot (Indigo) -->
     <path
-        android:fillColor="#FFD700"
-        android:pathData="M56,38 L44,54 h10 l-4,16 16,-18 h-10 z" />
+        android:fillColor="#6366F1"
+        android:pathData="M46,57 A3,3 0 1,1 45.99,57 Z" />
+    <!-- Center Dot (Rose Pink) -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M54,57 A3,3 0 1,1 53.99,57 Z" />
+    <!-- Right Dot (Emerald Green) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M62,57 A3,3 0 1,1 61.99,57 Z" />
+
+    <!-- 4. Party Hat: Cone Body (Coral Pink/Red) -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M52,48 Q61,50 70,45 L66,27 Z" />
+
+    <!-- 5. Party Hat: Decorative Gold Stripe -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M61,34.4 L67.4,33.3 L68.2,36.9 L58.3,38.6 Z" />
+
+    <!-- 6. Party Hat: Decorative Teal Stripe -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M56.2,41.7 L68.8,39.6 L69.4,42.3 L54.1,44.8 Z" />
+
+    <!-- 7. Party Hat: Base Trim -->
+    <path
+        android:strokeColor="#FDE047"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M51,48.5 Q61,50.5 71,45.5" />
+
+    <!-- 8. Party Hat: Fluffy Gold Pom-Pom at Tip -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M66.5,22 A3.5,3.5 0 1,1 66.49,22 Z" />
+
+    <!-- 9. Festive Confetti & Sparkles -->
+    <!-- Gold 4-point Sparkle Star (top left) -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M34,31 Q34,35 30,35 Q34,35 34,39 Q34,35 38,35 Q34,35 34,31 Z" />
+    <!-- Sky Blue Confetti Ribbon (top right) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M75,33 L78,32 L80,35 L77,36 Z" />
+    <!-- Pink Confetti Dot -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M30,66.5 A1.5,1.5 0 1,1 29.99,66.5 Z" />
+    <!-- Yellow Confetti Dot -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M79,66.5 A1.5,1.5 0 1,1 78.99,66.5 Z" />
+
 </vector>

@@ -3,6 +3,7 @@ package com.droid.catchphrase.audio
 import android.os.SystemClock
 import com.droid.catchphrase.engine.RoundSchedule
 import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -10,6 +11,8 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
+
+import kotlinx.coroutines.withContext
 
 data class TimerTickState(
     val elapsedMs: Long = 0L,
@@ -21,7 +24,8 @@ data class TimerTickState(
 
 /**
  * Manages the monotonic round countdown clock and triggers low-latency sound ticks.
- * Uses SystemClock.elapsedRealtime() to eliminate timing drift across frames or GC events.
+ * Uses SystemClock.elapsedRealtime() on Dispatchers.Default to eliminate timing drift
+ * and keep audio playback completely fluid even under heavy Compose UI layout/animation load.
  */
 class MonotonicRoundTimer(
     private val scope: CoroutineScope,
@@ -70,36 +74,53 @@ class MonotonicRoundTimer(
         val currentSchedule = schedule ?: return
         timerJob?.cancel()
 
-        timerJob = scope.launch {
+        // Run on Dispatchers.Default for dedicated CPU timing unaffected by main-thread UI frames
+        timerJob = scope.launch(Dispatchers.Default) {
+            var lastStateEmissionMs = 0L
+
             while (isActive) {
                 val now = SystemClock.elapsedRealtime()
                 val elapsed = (now - startRealtimeMs) + pausedAccumulatedMs
                 val total = currentSchedule.totalDurationMs
 
                 if (elapsed >= total) {
-                    // Round complete: Sound buzzer & trigger callback
                     _timerState.value = _timerState.value.copy(
                         elapsedMs = total,
                         isRunning = false,
                         isFinished = true
                     )
                     soundController.playFinalBuzzer()
-                    onRoundFinishedCallback?.invoke()
+                    withContext(Dispatchers.Main) {
+                        onRoundFinishedCallback?.invoke()
+                    }
                     break
                 }
 
-                _timerState.value = _timerState.value.copy(elapsedMs = elapsed)
-
-                // Check tick schedule
-                while (nextTickIndex < currentSchedule.tickScheduleMs.size &&
-                    elapsed >= currentSchedule.tickScheduleMs[nextTickIndex]
-                ) {
-                    soundController.playTick(hapticsEnabled)
-                    nextTickIndex++
+                // Throttle StateFlow updates to ~100ms so Compose isn't overloaded with recompositions
+                if (elapsed - lastStateEmissionMs >= 100L) {
+                    _timerState.value = _timerState.value.copy(elapsedMs = elapsed)
+                    lastStateEmissionMs = elapsed
                 }
 
-                // Poll every ~10ms for sub-frame monotonic accuracy
-                delay(10)
+                // Target timestamp for next tick event
+                val targetTickMs = if (nextTickIndex < currentSchedule.tickScheduleMs.size) {
+                    currentSchedule.tickScheduleMs[nextTickIndex]
+                } else {
+                    total
+                }
+
+                if (elapsed >= targetTickMs) {
+                    if (nextTickIndex < currentSchedule.tickScheduleMs.size) {
+                        soundController.playTick()
+                        nextTickIndex++
+                    }
+                } else {
+                    // Sleep until the next event (either the next tick or the next UI emission)
+                    val remainingToTick = targetTickMs - elapsed
+                    val remainingToUi = (lastStateEmissionMs + 100L) - elapsed
+                    val waitTime = if (remainingToUi > 0) minOf(remainingToTick, remainingToUi) else remainingToTick
+                    delay(waitTime.coerceIn(1L, 100L))
+                }
             }
         }
     }
@@ -116,6 +137,7 @@ class MonotonicRoundTimer(
         if (!_timerState.value.isRunning || !_timerState.value.isPaused) return
         startRealtimeMs = SystemClock.elapsedRealtime()
         _timerState.value = _timerState.value.copy(isPaused = false)
+        soundController.ensureLoaded()
         launchTimerLoop()
     }
 

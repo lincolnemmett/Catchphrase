@@ -67,8 +67,8 @@ fun HowToPlayScreen(onBack: () -> Unit) {
             )
 
             RuleCard(
-                title = "3. Got It & Passing",
-                description = "As soon as a teammate shouts the exact word, tap 'GOT IT!' and immediately hand the phone to the next player (from the other team)."
+                title = "3. Guessing & Passing",
+                description = "As soon as a teammate shouts the exact word, tap 'NEXT' and immediately hand the phone to the next player (from the other team)."
             )
 
             RuleCard(

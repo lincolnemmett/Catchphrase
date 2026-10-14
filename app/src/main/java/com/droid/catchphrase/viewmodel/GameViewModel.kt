@@ -11,10 +11,12 @@ import com.droid.catchphrase.engine.GameEngine
 import com.droid.catchphrase.engine.RoundSchedule
 import com.droid.catchphrase.engine.RoundTimerCalculator
 import com.droid.catchphrase.engine.WordDealer
+import com.droid.catchphrase.model.CategoryData
 import com.droid.catchphrase.model.GameSettings
 import com.droid.catchphrase.model.GameState
 import com.droid.catchphrase.model.Team
 import com.droid.catchphrase.model.WordEntry
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
@@ -28,6 +30,7 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
     val wordRepository = WordRepository(application)
     val soundController = SoundController(application)
     val timer = MonotonicRoundTimer(viewModelScope, soundController)
+    val categories: List<CategoryData> = wordRepository.loadAllCategories()
 
     val savedSettings: StateFlow<GameSettings> = preferencesRepository.settingsFlow
         .stateIn(viewModelScope, SharingStarted.Eagerly, GameSettings())
@@ -107,6 +110,7 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
 
     fun resumeSavedGame(saved: GameState, onReady: () -> Unit) {
         viewModelScope.launch {
+            timer.stop() // Clear any stale timer state from previous runs
             val gameEngine = GameEngine(saved.teams, saved.settings)
             gameEngine.restoreState(saved)
             engine = gameEngine
@@ -115,6 +119,7 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
             dealer = WordDealer(words)
 
             _gameState.value = saved
+            soundController.ensureLoaded()
             onReady()
         }
     }
@@ -138,7 +143,7 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
 
         timer.start(
             roundSchedule = schedule,
-            enableTickHaptics = currentSt.settings.tickHapticsEnabled,
+            enableTickHaptics = false,
             onFinished = {
                 val lastWord = _currentWord.value?.text ?: "Word"
                 val updated = eng.onBuzzerSounded(lastWord)
@@ -147,7 +152,9 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
                     preferencesRepository.saveGameState(updated)
                     preferencesRepository.recordWordsSeen(d.getUsedWordsInGame())
                 }
-                onBuzzerFinished()
+                viewModelScope.launch(Dispatchers.Main) {
+                    onBuzzerFinished()
+                }
             }
         )
     }
@@ -217,7 +224,12 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     fun resumeGame() {
+        soundController.ensureLoaded()
         timer.resume()
+    }
+
+    fun stopRoundTimer() {
+        timer.stop()
     }
 
     fun abandonCurrentGame() {
